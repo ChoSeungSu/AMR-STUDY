@@ -1,3 +1,6 @@
 # AMR-STUDY
 ---
-EDA & CROLLING & SQL & OPENCV
+### EDA 
+### CROLLING 
+### SQL 
+### OPENCV
