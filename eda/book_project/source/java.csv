@@ -1,0 +1,1001 @@
+,title,isbn,publisher,pubdate,language
+0,Java의 정석 (최신 Java 8.0 포함),9788994492032,도우출판,20160127,Java
+1,JAVA (9th edition),9788993163704,이한미디어,20200901,Java
+2,Java의 정석: 기초편 세트,9788994492049,도우출판,20191230,Java
+3,이것이 자바다 (교육 현장에서 가장 많이 쓰이는 JAVA 프로그래밍의 기본서),9791169210027,한빛미디어,20220905,Java
+4,JAVA (Java Programming for beginners teaching you basic to advanced JAVA programming skills!),9781761032882,Ingram Publishing,20200331,Java
+5,Java,9783732662708,Outlook Verlag,20180406,Java
+6,Java,9783842418875,TREDITION CLASSICS,20111027,Java
+7,Java (An Introduction to Problem Solving & Programming),9780132774154,Addison Wesley Longman,20110616,Java
+8,Java (An Introduction to Problem Solving & Programming),9780133841084,Addison-Wesley Professional,20140219,Java
+9,Java (Just in Time),9780470714300,John Wiley & Sons Inc,20100126,Java
+10,Java (An Introduction to Problem Solving & Programming),9780132766067,Addison-Wesley Professional,20110606,Java
+11,혼자 공부하는 자바 (JAVA 8 & 11 지원/무료 동영상 강의 제공),9791162241875,한빛미디어,20190610,Java
+12,JAVA 7 (기본부터 심화까지 해결하는 문제 해결의 길잡이),9788968480546,한빛미디어,20131101,Java
+13,JAVA 5 (UPGRADE),9788970184746,기한재,20070907,Java
+14,절대 JAVA (자바프로그래밍의 기초부터 안드로이드까지),9788992649889,인피니티북스,20140122,Java
+15,Java 카페 (처음 만나는 자바프로그래밍),9791156006756,도서출판 홍릉(홍릉과학출판사),20190628,Java
+16,Power JAVA,9791185578989,인피니티북스,20220225,Java
+17,Java 홀릭,9791185123097,북스홀릭퍼블리싱,20140212,Java
+18,"The Java Language Specification, Java SE 8 Edition (Java Se)",9780133900699,Addison-Wesley Professional,20140506,Java
+19,JAVA 언어,9788970186863,기한재,20130325,Java
+20,실무에서 바로 통하는 자바 (Java 8 대응),9788968488627,한빛미디어,20170701,Java
+21,JAVA의 기초,9788992583688,오성미디어,20100301,Java
+22,C언어 & JAVA (중등교원임용시험대비 C언어 & JAVA 완벽 가이드),9788964256237,배움,20170102,Java
+23,Java 프로그래밍 (Java 6 7 8),9788956746388,정보문화사,20150920,Java
+24,モダンJava,9784774158785,技術評論社,20130820,Java
+25,Java Se 6 (The Complete Reference),9780072263855,McGraw-Hill Osborne Media,20061101,Java
+26,Java 반양장,9780131483989,Prentice-Hall,20040805,Java
+27,Java 반양장 (A Beginner’s Guide),9780071606325,McGraw-Hill/Osborne Media,20120220,Java
+28,개념있는 JAVA (기초 개념부터 친절하게 설명하는 완벽한 JAVA 강의),9788931459562,영진닷컴,20190110,Java
+29,On Java Road,9781781090817,Random House,20220804,Java
+30,Java 200제 (Java 프로그래밍 시작을 위한 입문서),9788956745909,정보문화사,20130729,Java
+31,Java本格入門 (モダンスタイルによる基礎からオブジェクト指向.實用ライブラリまで),9784774189093,技術評論社,20170418,Java
+32,JAVA 입문 교실 (제3판),9788931552881,성안당,20140520,Java
+33,객체 중심 JAVA (안드로이드를 이용한 색다른 UI 실습),9788965400035,프리렉,20101101,Java
+34,Big Java,9781118318775,Wiley-Blackwell,20130402,Java
+35,JAVA 프로그래밍 (실무 예제(Lotto)로 따라 배우는),9791156005889,도서출판 홍릉(홍릉과학출판사),20180330,Java
+36,Power JAVA,9788992649865,인피니티북스,20121022,Java
+37,Good JAVA,9791156642442,한빛아카데미,20160212,Java
+38,Java 프로그래밍,9788996409748,인투북스,20110905,Java
+39,Just JAVA (객체지향에 충실한 자바다운 자바),9791156642015,한빛아카데미,20151026,Java
+40,자바(Java) 1학년 (체험으로 배우고 대화 형식으로 공부하는 프로그래밍의 구조),9788931555691,성안당,20190109,Java
+41,Java Head,9781716672835,Lulu.com,20200806,Java
+42,명쾌한 JAVA 입문 (248개의 예제 프로그램과 278개의 일러스트가 가득한),9788931437225,영진닷컴,20080805,Java
+43,Java 프로그래밍,9788984688230,21세기사,20190304,Java
+44,JAVA 프로그래밍 (미니 프로젝트로 배우는),9788980009091,복두출판사,20130830,Java
+45,JAVA 언어의 활용,9788972838418,도서출판 홍릉(홍릉과학출판사),20100228,Java
+46,JAVA 쉽게 배우기 (J2SE 1.6을 중심으로),9788980812608,현우사,20090220,Java
+47,Java 프로그래밍 (자바 이런거였어?),9788980782987,가메,20180808,Java
+48,쉬운 Java 교과서 (Java를 가장 빨리 배울 수 있는 방법),9788984685413,21세기사,20140825,Java
+49,JAVA 프로그래밍,9788984685604,21세기사,20150125,Java
+50,Java Girl (A Romance of the Dutch East Indies),9781934431337,DatASIA,20200101,Java
+51,Core Java,9789351649847,Repro Knowledgcast Ltd,20160116,Java
+52,에센셜 JAVAFX (모바일 데스크탑과 웹용 애플리케이션 개발툴),9788964200346,케이앤피IT,20101118,Java
+53,JAVA 별거 아니네 (프로그래밍 초급자를 위한 입문서),9788931552669,성안당,20131210,Java
+54,Core Java (Advanced Features #3),9781499642711,CreateSpace Independent Publishing Platform,20140521,Java
+55,Javascript (This book includes : Javascript Basics For Beginners + Javascript Front End Programming + Javascript Back End Programming),9781955786010,Ladoo Publishing LLC,20210524,Java
+56,First Java,9791188831739,연두에디션,20210129,Java
+57,Build Up JAVA (프로그래밍 기초부터 튼튼하게 학습하는),9791162890974,북스홀릭퍼블리싱,20220302,Java
+58,JAVA 7 프로그래밍 (실습으로 배우는),9788993712339,휴먼사이언스,20120228,Java
+59,JAVA 6 프로그래밍 (예제로 배우는),9788996190622,휴먼사이언스,20090220,Java
+60,Java Study (기초에서 실무개발자까지 자바 스터디),9791158134471,구민사,20170510,Java
+61,JavaScript,9786200333209,Editorial Academica Espanola,20200325,Java
+62,JavaScript (자바스크립트 성능 최적화),9788979148558,한빛미디어,20110925,Java
+63,"JavaScript (The Web Technologies Series, International Edition)",9780538468138,South-Western,20100313,Java
+64,JAVA 웹서비스 구축 (기초부터 실무까지),9788972837978,도서출판 홍릉(홍릉과학출판사),20120215,Java
+65,On to Java,9780201725933,Addison-Wesley,20010601,Java
+66,Java 7 프로그래밍,9788980782505,가메,20120515,Java
+67,JAVA 핵심 요약 노트 (빠르게 훑어보는 자바 프로그래밍),9788968486630,한빛미디어,20140314,Java
+68,JavaScript,9781305078444,Cengage Learning,20140827,Java
+69,Java 프로그래밍 입문 (모르면 물어봐 1 : 1 Q&A 게시판 운영),9791185553184,앤써북,20151030,Java
+70,JAVA 프로그래밍 기초,9788909191906,교학사,20150215,Java
+71,Core Java 2,9780131482029,Prentice-Hall,20210101,Java
+72,JAVA를 자바라: 기본편 (기본편),9788978123297,국민대학교출판부,20130828,Java
+73,Java를 이용한 암호학,9788972833888,홍릉과학출판사,20040317,Java
+74,어서와 Java는 처음이지! (JDK8로 배우는 자바 프로그래밍),9791185578217,인피니티북스,20151125,Java
+75,JAVA가 보이는 그림책 (국내 최초 그림으로 배우는 JAVA 프로그래밍 입문서),9788931552782,성안당,20131125,Java
+76,Java Programming (Dreamblood: Book 1),9780357673423,"Cengage Learning, Inc",20220616,Java
+77,JAVA 구현 자료구조론,9788984688407,21세기사,20190830,Java
+78,JAVA 프로그래밍 실습,9788978122832,국민대학교출판부,20090904,Java
+79,Java 프로그래밍 입문 (현업 개발자의 실무 멘토링),9791185123042,북스홀릭퍼블리싱,20131122,Java
+80,알기 쉽게 해설한 JAVA,9788993163247,이한미디어,20170301,Java
+81,Javaビルドツ-ル入門 (Maven/Gradle/SBT/Bazel對應),9784798049380,秀和システム,20170208,Java
+82,JAVA 8.0 쉽게 배우기,9788980814671,현우사,20150710,Java
+83,Java 5.0 Tiger (A Developer’s Notebook),9780596007386,O&#39;Reilly Media,20040630,Java
+84,JAVA를 자바라: 기본편,9788978123105,국민대학교출판부,20120210,Java
+85,JAVA 프로그래밍 기초,9788985437394,상학당,20070305,Java
+86,Java 윈도우 프로그래밍 (시뮬레이션 예제중심),9788993601688,지코사이언스,20180115,Java
+87,Java 프로그래밍 길잡이,9788980782741,가메,20141210,Java
+88,Perfect JAVA,9788959723409,청람,20130910,Java
+89,핵심 JavaScript (웹 프로그래밍의 실력 향상을 위한),9791185123349,북스홀릭퍼블리싱,20150202,Java
+90,Java on Tips,9786200326218,LAP Lambert Academic Publishing,20191004,Java
+91,컴퓨터 네트워크 프로그래밍 (Java Version),9788996190646,휴먼사이언스,20090302,Java
+92,Java 시큐어코딩 가이드 (전자정부 SW 개발.운영자를 위한),9791155654170,휴먼컬처아리랑,20150415,Java
+93,Java 9 모듈 프로그래밍 (자바 모듈 프로그래밍으로 재사용 가능하고 관리하기 쉬운 코드 작성하기),9791162240403,한빛미디어,20180501,Java
+94,R과 Java로 크롤링하자,9788970509037,생능출판,20170217,Java
+95,이클립스 요술램프 (Java의 마법에 빠져볼까?),9788989975403,에이콘출판사,20040416,Java
+96,Modular Java (Creating Flexible Applications With OSGi and Spring),9781934356401,Pragmatic,20090701,Java
+97,Java Rmi 반양장,9781565924529,O&#39;Reilly,20011001,Java
+98,Java 8 Lambdas (Pragmatic Functional Programming),9781449370770,Oreilly & Associates Inc,20140407,Java
+99,Ivor Horton’s Beginning Java: Java 7 Edition (Java 7 Edition),9780470404140,WROX Press,20110909,Java
+0,Web Services Patterns (Java Edition),9781590590843,Apress,20030401,Java
+1,Java Threads,9780596007829,O&#39;Reilly Media,20040901,Java
+2,Ajax on Java,9780596101879,.,20070201,Java
+3,Flex on Java,9781933988795,Manning Publications,20100429,Java
+4,Java 8 Recipes,9781430268277,Apress,20140913,Java
+5,"Head First Java (뇌 회로를 자극하는 자바 학습법, 개정판)",9788979143713,한빛미디어,20051120,Java
+6,JAVA 객체지향 디자인 패턴 (UML과 GoF 디자인 패턴 핵심 10가지로 배우는),9788968480911,한빛미디어,20140402,Java
+7,JAVA 시각화 객체지향 입문 (새틀(SETL)을 이용한),9791195482924,소프트웨어품질기술원,20150520,Java
+8,Java EE 아키텍트 핸드북 (성공적인 Java EE 애플리케이션 아키텍트가 되는 방법),9788994405230,와우북스,20150512,Java
+9,JAVA 프로그래밍 사로잡기 (만만한 프로그래밍 시리즈 03),9788956744605,정보문화사,20090430,Java
+10,Java For Kids (NetBeans 11 Programming Tutorial),9781937161088,Kidware Software & BibleByte Books,20191113,Java
+11,Java 9 Cookbook,9781786461407,Packt Publishing,20181001,Java
+12,Java in Easy Steps: Covers Java 9 (Covers Java 9),9781840787535,In Easy Steps,20171205,Java
+13,Masks of Java (Coloring Pages for Kids and Kids at Heart),9781948344432,"Blue Ivy Press, LLC",20171128,Java
+14,Javaプログラミング入門,9784798044774,秀和システム,20150928,Java
+15,Java Actually (A First Course in Programming),9781844804184,Thomson Learning,20070131,Java
+16,Hardcore Java,9780596005689,O&#39;Reilly & Associates,20040301,Java
+17,Java in Easy Steps: Covers Java 8 (Covers Java 8),9781840786217,In Easy Steps,20140902,Java
+18,Absolute Java,9780131365896,Pearson Higher Education,20090315,Java
+19,JAVA를 게임으로 정복하기 (자바전문가 임동혁의),9788994914305,북스홀릭,20110715,Java
+20,"Opium to Java (Revenue Farming and Chinese Enterprise in Colonial Indonesia, 1860-1910)",9789793780498,Equinox Publishing,20070131,Java
+21,JavaScript 반양장 (Visual QuickStart Guide),9780321772978,Peachpit Press,20121106,Java
+22,Learning Java,9780596008734,Oreilly & Associates Inc,20050630,Java
+23,Absolute Java,9780132830317,Addison Wesley Longman,20120319,Java
+24,Java Concepts,9781118318768,Wiley-Academy,20130402,Java
+25,SOA With Java (Realizing Service-Orientation With Java Technologies),9780133859034,Prentice Hall,20140627,Java
+26,C언어 기반 JAVA 프로그래밍,9791156008460,도서출판 홍릉(홍릉과학출판사),20210308,Java
+27,Java Programming (기초부터 안드로이드 맛보기까지),9788958972280,삼양미디어,20111120,Java
+28,윤성우의 열혈 Java 프로그래밍,9788996094074,오렌지미디어,20170705,Java
+29,초보자를 위한 Java 200제,9788956747859,정보문화사,20180705,Java
+30,Java 문제해결과 프로그래밍,9788945006493,Pearson,20130925,Java
+31,Java8 프로그래밍 정복하기 (객체지향의 원리를 이해하는),9791185123622,북스홀릭퍼블리싱,20160303,Java
+32,프로그래밍 기초를 쌓는 JAVA,9788984681989,21세기사,20070120,Java
+33,What’s up JAVA,9791162890035,북스홀릭퍼블리싱,20180620,Java
+34,Beginning Java (A JDK 11 Programming Tutorial),9781951077006,Kidware Software & BibleByte Books,20191014,Java
+35,자료구조 (JavaScript로 배우는),9788963562483,에듀컨텐츠휴피아,20190201,Java
+36,Effective Java,9780134685991,Addison-Wesley,20180110,Java
+37,JAVA 기반 객체지향 자료구조 (소프트웨어설계 중심),9788957270950,그린,20070831,Java
+38,Efficient Java (A Practical Guide to Memory-conscious Programming),9780321712097,Prentice Hall,20170430,Java
+39,The Java Virtual Machine Specification: Java SE (Java SE 8 Edition),9780133905908,Addison-Wesley Professional,20160614,Java
+40,Javaフレ-ムワ-ク入門 第5版,9784798046396,秀和システム,20160328,Java
+41,JAVA(Internet) (Internet),9788970182162,기한재,20020307,Java
+42,Java 2 by Example (By Example),9780789725936,Que,20011201,Java
+43,Reviewing Java,9780557043552,Lulu.com,20130721,Java
+44,Javaで學ぶコンピュ-タ數學,9784877833206,カットシステム,20130729,Java
+45,Effective Java,9780321356680,Prentice Hall PTR,20080509,Java
+46,Java & Bali 텝북,9780794605315,Tuttle,20080215,Java
+47,Java 2 Unleashed,9780672323942,Sams,20020701,Java
+48,Beginning Ejb 3: Java Ee 7 Edition (Java Ee 7 Edition),9781430246923,Apress,20130424,Java
+49,Spiritual Java (A New Translation for the Occult Practitioner),9780768412666,Destiny Image,20101021,Java
+50,Easy Javascript (프로그래밍 왕초보를 위한 자바스크립트 배우기),9788996627456,미래웹기술연구소,20140410,Java
+51,JUMPING TO JAVA,9788985226714,삼양출판사,19970430,Java
+52,이것이 자바다 (신용권의 Java 프로그래밍 정복),9788968481475,한빛미디어,20150105,Java
+53,Bitter Java 반양장,9781930110434,Oreilly & Associates,20210101,Java
+54,코드를 통해 본 빵형의 실전 Java (실무 해결을 위한 실전 실습서(Java 14 최신 버전 포함)),9791189184056,남가람북스,20200605,Java
+55,UML 실전에서는 이것만 쓴다 (JAVA 프로그래머를 위한 UML),9788991268937,인사이트,20110104,Java
+56,JAVA Programing,9788955683691,양서각,20130225,Java
+57,객체지향 프로그래밍 언어 JAVA,9788956671925,인터비젼,20040415,Java
+58,Monumental Java,9789353971984,Alpha Editions,20200115,Java
+59,Sams Teach Yourself Java in 21 Days (Covers Java 11/12) (Covering Java 9),9780672337956,Sams,20191208,Java
+60,JavaScript 프로그래밍 (실전에서 써먹는),9788931443820,영진닷컴,20130605,Java
+61,자료구조와 알고리즘을 함께 Java! (퀴즈로 쏙쏙 이해하는 초보자를 위한 입문서),9791165920579,비제이퍼블릭,20210423,Java
+62,수치해석 및 전산통계 (JAVA 프로그래밍과 함께 배우는),9788973384341,자유아카데미,20140521,Java
+63,Java EE 8 Cookbook,9781788293037,Packt Publishing,20180411,Java
+64,A Visit to Java,9783732665068,Outlook Verlag,20180405,Java
+65,"Java in 24 Hours, Sams Teach Yourself (Covering Java 9) (Covering Java 9)",9780672337949,Sams,20170924,Java
+66,Java 9 with JShell,9781787282841,Packt Publishing,20170329,Java
+67,Reise nach Java,9783743395527,Hansebooks,20170317,Java
+68,JavaScript「超」入門,9784797383584,SBクリエイテ,20151128,Java
+69,JavaScript 프로그래밍 (Mobile App HTML 5 jQuery),9788956746395,정보문화사,20150920,Java
+70,Java 프로그래밍 기초 넘나들기 (안드로이드 앱 웹 IoT 개발을 위한 Java 필독서),9788931553826,성안당,20150910,Java
+71,Easy Java 프로그래밍,9788989908005,컴앤북,20020130,Java
+72,はじめてのJavaScript,9784798038131,秀和システム,20130528,Java
+73,獨習Java サ-バサイド編 第2版,9784798130491,翔泳社,20130201,Java
+74,Java Media APIs,9780672320941,Sams,20030101,Java
+75,An Introduction to Network Programming with Java: Java 7 Compatible (Java 7 Compatible),9781447152538,Springer,20131216,Java
+76,뇌를 자극하는 JAVA 프로그래밍,9788979143973,한빛미디어,20060831,Java
+77,이게 진짜 Java 프로그래밍이다,9788931445756,영진닷컴,20131129,Java
+78,JAVA를 이용한 컴퓨터 그래픽스,9788957270318,그린,20040115,Java
+79,JAVA 5.0 실습중심 프로그래밍,9788972836131,도서출판 홍릉(홍릉과학출판사),20070228,Java
+80,프로그래밍과 웹 수학(HTML.JAVASCRIPT) (HTML.JAVASCRIPT),9788981724269,교우사,20040225,Java
+81,JavaScript Bible,9780470069165,Wiley,20210101,Java
+82,Essential JavaFX,9780137042791,Prentice-Hall,20210101,Java
+83,Java Server pages,9788180941337,Mjp Publishers,20210701,Java
+84,자바가 보이는 그림책 (Java가 좋아지는 새로운 9개 관문),9788931555707,성안당,20180910,Java
+85,JAVA PROGRAMMING (이론과 실습으로 익히는),9788935304516,정익사,20090831,Java
+86,Java Programming,9791188831081,연두에디션,20180620,Java
+87,Java Programming (아이디어 구현 중심),9788956746425,정보문화사,20150814,Java
+88,Java Illuminated (An Active Learning Approach),9781284140996,Jones & Bartlett Learning,20200201,Java
+89,Learn Java 17 Programming (Learn the fundamentals of Java Programming with this updated guide with the latest features),9781803241432,Packt Publishing Limited,20220729,Java
+90,JAVA PROGRAMMING,9788994393186,북스홀릭,20101130,Java
+91,Java Foundations,9781292025483,Pearson,20170301,Java
+92,Java Programming,9781337397070,Course Technology Ptr,20180329,Java
+93,Java for Dummies,9781119235552,For Dummies,20170320,Java
+94,해킹 방어를 위한 JAVA 시큐어코딩 (실무에 바로 적용하는),9791195334247,오픈이지북스,20170303,Java
+95,해킹 방어를 위한 JAVA 시큐어코딩 (실무에 바로 적용하는),9791195334230,오픈이지,20160420,Java
+96,JAVA PROGRAMMING (게임을 즐기면서 배우는 자바 입문서),9788994393049,북스홀릭,20100625,Java
+97,Java Performance,9780137142521,Addison-Wesley Professional,20110930,Java
+98,Beginning Java 7,9781430239093,Apress,20111101,Java
+99,Head First Java 반양장,9780596009205,O&#39;Reilly Media,20050216,Java
+0,Flex 3 with Java,9781847195340,Packt Publishing,20090630,Java
+1,Thinking in Java,9780131872486,Prentice Hall Ptr,20060203,Java
+2,Java Programming,9788955026030,글로벌,20110725,Java
+3,Pro Java 7 Nio.2,9781430240112,Apress,20111231,Java
+4,Java 7 : Programming,9780071633604,McGraw-Hill Osborne,20120120,Java
+5,Formal Software Development: From VDM to Java (From Vdm to Java),9780333992814,Palgrave Macmillan,20030909,Java
+6,JAVA PROGRAMMING (자바입문 개발자들을 위한 GUIDE BOOK),9788996629702,다올미디어,20110515,Java
+7,Java Ee 7 First Look,9781849699235,Packt Publishing,20131122,Java
+8,Java Demystified,9780072254549,Osborne/McGraw-Hill,20040501,Java
+9,Java Illuminated (An Active Learning Approach),9781284045314,Jones & Bartlett Publishers,20140915,Java
+10,Java Programming (From Problem Analysis to Program Design),9781423901358,Course Technology,20070223,Java
+11,Java Programming (Introductory Concepts And Techniques),9781418859831,Cengage Learning,20050812,Java
+12,Java Illuminated (An Active Learning Approach),9781449632014,Jones & Bartlett Publishers,20110118,Java
+13,Decompiling Java,9781430254690,Springer,20140113,Java
+14,Beginning Javafx,9781430271994,Springer-Verlag New York Inc,20101029,Java
+15,Java Illuminated (An Active Learning Approach),9781449632021,Jones & Bartlett Publishers,20110121,Java
+16,Java Made Simple,9780750653398,Elsevier Science,20020516,Java
+17,JAVA PROGRAMMING (이론과 실습 중심),9788993951684,명진,20100720,Java
+18,Java for Android,9780992133030,Brainysoftware,20140815,Java
+19,난 정말 JAVA를 공부한 적이 없다구요,9788996094029,오렌지미디어,20090812,Java
+20,멀티스레드 기반 자바스크립트 (Multithreaded JavaScript),9791186710838,루비페이퍼,20220615,Java
+21,Power JAVA Compact,9791185578354,인피니티북스,20180227,Java
+22,Java and Xslt 반양장,9780596001438,O&#39;Reilly,20210101,Java
+23,An Introduction to PHP for Scientists and Engineers: Beyond JavaScript (Beyond Javascript),9781848002364,Springer,20210101,Java
+24,Absolute Java 반양장,9780136083825,Pearson Education Corporate,20210101,Java
+25,Java 14 Programming,9786202917681,LAP Lambert Academic Publishing,20201025,Java
+26,Playing with Java (처음 만나는 자바 프로그래밍),9788994464411,교보문고,20101215,Java
+27,JAVA 14 Programming,9791162890271,북스홀릭퍼블리싱,20200901,Java
+28,인터랙션디자인을 위한 Java Script,9791191857467,사이버북스,20211117,Java
+29,The History of Java,9781014019028,Legare Street Press,20210909,Java
+30,네트워크 프로그래밍 (TCP/IP 기초와 JAVA /C#을 활용한),9788998338428,카오스북,20140801,Java
+31,한권으로 끝내는 실무 Java 웹 개발서 (실전 개발을 위한 단계별 실습서),9791189184025,남가람북스,20190127,Java
+32,JavaScript 실무 프로그래밍 (Ajax 대응),9788958971870,삼양미디어,20100225,Java
+33,프로그래밍 원리 (Report와 Javascript),9788993712612,휴먼싸이언스,20150223,Java
+34,JavaScript가 보이는 그림책 (국내 최초 그림으로 배우는 프로그래밍 입문서),9788931555332,성안당,20180228,Java
+35,Java for Beginner,9788998756796,한빛아카데미,20140128,Java
+36,순서도로 배우는 JavaScript (s/w교육 Only One 03),9788997587230,다올미디어,20170105,Java
+37,JavaScript jQuery (Active한 웹콘텐츠 완성을 위한),9788996931140,북스홀릭퍼블리싱,20121210,Java
+38,The Java Workshop,9781838986698,Packt Publishing,20191031,Java
+39,JAVA 언어로 배우는 디자인 패턴 입문 (개정판),9788931436914,영진닷컴,20080501,Java
+40,Java Fundamentals,9781789801736,Packt Publishing,20190308,Java
+41,Java Ee 8 and Angular,9781788291200,Packt Publishing,20180116,Java
+42,"Java프로그래밍(1학기, 워크북포함)",9788920020346,한국방송통신대학교출판문화원,20170125,Java
+43,JavaScriptフレ-ムワ-ク入門,9784798047843,秀和システム,20160928,Java
+44,JAVA의 정석(2ND EDITION) (2nd Edition),9788995379493,도우출판,20100120,Java
+45,Java Web Services (Up and Running),9780596521127,O&#39;Reilly Media,20090201,Java
+46,Java Data Objects,9780596002763,O&#39;Reilly,20100601,Java
+47,PPK on Javascript,9780321423306,New Riders,20100601,Java
+48,Blue Pelican Java,9781589397583,Virtualbookworm.com Publishing,20130320,Java
+49,Absolute Java 반양장,9780321330246,Addison-Wesley,20050401,Java
+50,The Java Tutorial (A Short Course on the Basics),9780132761697,Addison-Wesley Professional,20130227,Java
+51,Monday Morning Musings (Java for the Soul),9781468573657,AuthorHouse,20120419,Java
+52,Modern Javascript (Develop and Design),9780321812520,Peachpit Press,20120214,Java
+53,Expert JavaScript,9781430260974,Apress,20131130,Java
+54,"Java, 7/e : How to Program",9780136053064,Prentice-Hall,20210101,Java
+55,명품 JAVA Programming (귀로 배우는 자바가 아니라 눈으로 몸으로 배우는 자바강좌),9788970509471,생능출판,20180601,Java
+56,Java For Beginners 2022 (The Best Guide to Start Coding in Java Immediately),9781803343358,Massimo Marco Ettore Dubini,20220302,Java
+57,Runtime Verification (A Hands-On Approach in Java),9783031092664,Springer International Publishing AG,20220713,Java
+58,C & JAVA 프로그래밍 입문.1 (이렇게 하면 나도 프로그램을 잘 만들 수 있다),9788997399031,삼양애드,20120220,Java
+59,C & JAVA 프로그래밍 입문 2 (이렇게 하면 나도 프로그램을 잘 만들 수 있다),9788997399062,삼양애드,20121001,Java
+60,차세대 웹 프로그래밍 (HTML5+CSS3+JavaScript),9791156643302,한빛아카데미,20170730,Java
+61,Getting Start Java (자바의 기초부터 활용까지 알차게 담았다!),9791158132668,구민사,20160910,Java
+62,자바만 잡아도 (기초를 탄탄히 세우는 Java 프로그래밍),9791187486077,카오스북,20170830,Java
+63,JavaFX Programming,9791187555032,한산,20170130,Java
+64,South by Java Head,9780008369941,HarperCollins,20200414,Java
+65,JavaScript Testing (버그 없는 웹을 위한 자바스크립트 코드 테스트와 디버깅),9788960775398,에이콘출판,20140331,Java
+66,Java in Easy Steps,9781840788730,In Easy Steps Ltd,20190825,Java
+67,명품 JAVA Programming (개정3판),9788970509266,생능출판,20170816,Java
+68,명품 JAVA Programming (개정판),9788970507644,생능출판,20130207,Java
+69,JAVA for Beginners,9786139860555,LAP Lambert Academic Publishing,20180622,Java
+70,Java Data Analysis,9781787285651,Packt Publishing,20170915,Java
+71,JavaScript本格入門 改訂新版,9784774184111,技術評論社,20161128,Java
+72,JAVA 프로그래밍 면접 이렇게 준비한다,9788968481529,한빛미디어,20150201,Java
+73,Making Java Groovy,9781935182948,Manning Publications,20130927,Java
+74,JavaFX for Dummies,9781118385340,For Dummies,20141010,Java
+75,Murach’s Java SE 6,9781890774424,Mike Murach & Associates,20070501,Java
+76,Spiritual Java 반양장,9780768432855,Destiny Image Publishers,20120222,Java
+77,South by Java Head,9788177666106,Mehta Publishing House,20060101,Java
+78,Java: Just in Time,9781848900257,College Publications,20101217,Java
+79,Disability in Java,9783659163418,KS OmniScriptum Publishing,20130531,Java
+80,Java by Dissection,9781411652385,Lulu Press,20060830,Java
+81,HTML5 웹 프로그래밍 (CSS3+JavaScript와 함께 하는),9791162890059,북스홀릭퍼블리싱,20180827,Java
+82,이렇게 하면 나도 프로그램을 잘 만들 수 있다 (C & JAVA 프로그래밍 입문 3),9788997399130,삼양애드,20130701,Java
+83,"Java for Web Development (Create Full-Stack Java Applications with Servlets, JSP Pages, MVC Pattern and Database Connectivity)",9789355511430,BPB Publications,20220312,Java
+84,그림으로 배우는 Java Programming (Java 8 개발 환경에 대응하는 최신 개정판),9788931456738,영진닷컴,20171010,Java
+85,Modular Java(모듈라 자바) (OSGi와 스프링을 활용한 자바 모듈화 프로그래밍),9788960772359,에이콘출판,20110930,Java
+86,JPA 프로그래밍 입문 (Java Presistence API),9788980782901,가메,20170531,Java
+87,iOS 앱 개발 트레이닝 (HTML5 CSS3 JavaScript),9788956745671,정보문화사,20120713,Java
+88,Fundamentos de Java,9786200957870,Sciencia Scripts,20200507,Java
+89,자바스크립트(Java Script)1학년 (체험으로 배우고 대화형식으로 공부하는 프로그래밍의 구조),9788931555677,성안당,20181122,Java
+90,애프터스킬 자바스크립트 프론트엔드 프로젝트 가이드 (술술 잘 읽히는 JavaScript 필독서),9791186886786,아이콕스(iCox),20180610,Java
+91,명품 HTML5+CSS3+Javascript 웹 프로그래밍 (개정판),9788970505459,생능출판,20220210,Java
+92,속 깊은 JavaScript(자바스크립트) (ECMAScript 표준 문서를 바탕으로 펼치는 속 깊은 자바스크립트),9791186710098,루비페이퍼,20161111,Java
+93,HTML+CSS+JAVASCRIPT,9788984680654,21세기사,20020131,Java
+94,안드로이드 프로그래밍 (JAVA부터 시작하는 안드로이드 프로그래밍),9791156641018,한빛아카데미,20140220,Java
+95,HTML JAVASCRIPT CSS (체계적인 웹 프로그래밍 입문 완벽 대비서),9788994393063,북스홀릭,20100715,Java
+96,"JavaScript jQuery 입문 (개정판, 자바스크립트에서 제이쿼리, 제이쿼리 모바일까지 한 권으로 끝낸다)",9788968480423,한빛미디어,20130910,Java
+97,JavaScript jQuery 입문 (jQuery 1.7 jQuery Mobile 1.0 포함),9788979148749,한빛미디어,20111214,Java
+98,JavaScript Cookbook (2nd Edition),9788909194921,교학사,20160810,Java
+99,JavaScript Cookbook (시간을 절약해주는 자바스크립트 지식 창고),9788979148725,한빛미디어,20111226,Java
+0,Advanced JavaScript,9781789800104,Packt Publishing,20190131,Java
+1,Mastering Javafx 10,9781788293822,Packt,20181001,Java
+2,Javascript Unlocked,9781785881572,Packt Publishing,20161001,Java
+3,Java 9 for Programmers,9780134777566,Pearson P T R,20170710,Java
+4,Murach’s JavaScript,9781890774851,Mike Murach & Associates,20151001,Java
+5,웹 프로그래밍 입문 (XHTML CSS2 JAVASCRIPT),9788979148329,한빛미디어,20110627,Java
+6,Java Program Design,9780071192552,McGraw-Hill Higher Education,20040601,Java
+7,JavaScript & jQuery (The Missing Manual),9781449399023,Pogue Press,20111102,Java
+8,Java 5 Illuminated 반양장,9780763716677,Jones & Bartlett,20050228,Java
+9,Pieni Java 8 -kirja,9789522869968,Books on Demand,20140911,Java
+10,HTML5 & CSS3 & Javascript (기본과 실력을 한꺼번에 마스터하는),9791185123257,북스홀릭퍼블리싱,20141224,Java
+11,Agile Java(792) 반양장,9780131482395,Prentice Hall,20130425,Java
+12,Taming Java Threads,9781893115101,Apress,20000501,Java
+13,Javascript for Kids (A Playful Introduction to Programming),9781593274085,Oreilly & Associates Inc,20141212,Java
+14,From Java to C# 반양장,9780321136220,Addison-Wesley,20030101,Java
+15,Teach Yourself Java,9780078825705,Osborne,19980901,Java
+16,Beginning Java Ee 7,9781430246268,Apress,20130515,Java
+17,Programming in Java,9780198094852,Oxford University Press,20140109,Java
+18,JavaScript Security,9781783988006,Packt Publishing,20141123,Java
+19,Javascript & JQuery (Interactive Front-End Web Development),9781118871652,John Wiley & Sons Inc,20140711,Java
+20,초보자를 위한 JavaScript 200제,9788956748245,정보문화사,20190310,Java
+21,Making Sense of Java,9780132632942,Prentice Hall,20210101,Java
+22,Beginning Javascript,9780470051511,Wiley,20210101,Java
+23,Java Programming 반양장,9780619159689,Thomson Learning,20210101,Java
+24,Introduction to Java,9786202672818,LAP Lambert Academic Publishing,20200624,Java
+25,C&JAVA 실무 프로그래밍: 초급편,9791187171577,아우룸,20170621,Java
+26,JVM Performance Optimizing 및 성능분석 사례 (Java Virtual Machine),9791188427024,엑셈,20170910,Java
+27,"JavaScript+jQuery 정복 (보고, 이해하고, 바로 쓰는 자바스크립트 공략집)",9788968481321,한빛미디어,20141101,Java
+28,Java Parables Volume 1 (OOP in a nutshell.),9781916207837,Pamela Osakwe,20210719,Java
+29,Java Programming Basic (재미있게 배워보는 Java 언어 기초의 모든 것),9788931448283,영진닷컴,20150430,Java
+30,Java Coding Problems,9781789801415,Packt Publishing,20190923,Java
+31,Java EE 8 Microservices,9781788475143,Packt Publishing,20181228,Java
+32,How JavaScript Works,9781949815016,Virgule-Solidus LLC,20181018,Java
+33,자바스크립트를 깨우치다 (객체로 풀어보는 JavaScript의 원리),9788994774435,비제이퍼블릭,20130722,Java
+34,A Jaunt Through Java,9783744798105,Hansebooks,20170419,Java
+35,Beginning JavaScript,9781118903339,Wrox Press,20150225,Java
+36,Introduction to Computer Graphics: Using Java 2D and 3D (Using Java 2D and 3D),9781447127321,Springer,20120820,Java
+37,Decompiling Java 반양장,9781590592656,Springer,20040802,Java
+38,Java for Programmers,9780132821544,Prentice Hall,20110418,Java
+39,明解Javaによるアルゴリズムとデ-タ構造,9784797345230,ソフトバンククリエイティブ,20110807,Java
+40,Java for Dummies 반양장,9780470371732,For Dummies,20120210,Java
+41,Java Power Tools 반양장,9780596527938,Oreilly & Associates,20090620,Java
+42,The Religion of Java,9780226285108,University of Chicago Press,20140710,Java
+43,A Shadow Falls (In the Heart of Java),9780571235865,Faber & Faber,20090901,Java
+44,Java Ee 7: The Big Picture,9780071837347,McGraw-Hill/Osborne Media,20141001,Java
+45,Javascript Unleashed,9780672324314,Sams,20021201,Java
+46,HTML JAVA SCRIPT CSS,9788955026108,GLOBAL,20110824,Java
+47,Jxta: Java P2P Programming (Java P2P Programming),9780672323669,Sams,20020301,Java
+48,"Java, 7/e : How to Program 반양장",9780132222204,Prentice-Hall,20210101,Java
+49,Across The Equator (A Holiday Trip In Java),9789354593956,Alpha Editions,20210520,Java
+50,프론트엔드 개발을 위한 Javascript & Vue.js 핸드북,9791137291768,부크크(bookk),20220830,Java
+51,자바 9 모듈화(Java 9 Modularity) (Java 9에서 모듈형 애플리케이션을 작성하는 데 필요한 패턴과 사례를 설명),9791161340296,터닝포인트,20180917,Java
+52,JSP(Java Server Page) (이해하기 쉬운 예제 중심),9788970749402,구민사,20140630,Java
+53,"JavaScript + jQuery 입문 (ECMAScript 5/6, jQuery 3.X 대응)",9788968483554,한빛미디어,20170501,Java
+54,The Joy of JavaScript,9781617295867,Manning Pubns Co,20200106,Java
+55,2020 시나공 정보처리산업기사 실기 (C와 JAVA의 기본 + 알고리즘 해법 + 최신기출문제),9791165210052,길벗,20200106,Java
+56,Die Fossilen von Java (Auf Grund einer Sammlung von R. D. M. Verbeek und von anderen),9783744603805,Hansebooks,20170210,Java
+57,Foundations of 3d Graphics Programming (Using Jogl and Java3d),9781447168300,Springer-Verlag New York Inc,20160823,Java
+58,"HTML, CSS와 JavaScript 에센스",9788972837206,홍릉과학출판사,20081231,Java
+59,Javascript 1.5 by Example,9780789724991,Que,20010101,Java
+60,Smashing Node.JS (JavaScript Everywhere),9781119962595,John Wiley & Sons Inc,20120831,Java
+61,The Design and Implementation of Multimedia Software (With Examples in Java),9780763778125,Jones & Bartlett Publishers,20110101,Java
+62,Java 3d Api Jump-Start 반양장,9780130340764,Prentice-Hall,20010801,Java
+63,Using Jruby (Bringing Ruby to Java),9781934356654,Pragmatic Bookshelf,20101115,Java
+64,Functional Javascript (Introducing Functional Programming With Underscore.js?),9781449360726,Oreilly & Associates Inc,20130622,Java
+65,Java Web Services 반양장,9780596002695,O&#39;Reilly,20020301,Java
+66,Java SE8 for Programmers,9780133891386,Prentice Hall,20140330,Java
+67,Indesign Cs5 JavaScript,9781463667443,Createspace,20131223,Java
+68,Foundations of 3d Graphics Programming : Using Jogl And Java3d 반양장 (Using JOGL and Java3D),9781848002838,Springer,20080923,Java
+69,"Introduction to Engineering Programming: In C, MATLAB and Java (In C, Matlab and Java)",9780471001164,John Wiley & Sons,19990215,Java
+70,Big Java Late Objects,9781118129425,Wiley,20120201,Java
+71,Programming With Java (A Multimedia Approach),9781449638610,Jones & Bartlett Learning,20110602,Java
+72,JavaScript by Example,9780137054893,Prentice Hall,20100528,Java
+73,Single Page Web Applications: JavaScript End-To-End (JavaScript End-To-End),9781617290756,Manning Publications,20130927,Java
+74,Bluetooth for Java 반양장,9781590590782,Springer,20210101,Java
+75,Quicktime For Java 반양장,9780596008222,Oreilly & Associates,20210101,Java
+76,Core Java Data Objects,9780131407312,Prentice-Hall,20210101,Java
+77,HandBook to JavaScript,9786202919227,LAP Lambert Academic Publishing,20201006,Java
+78,Core Java Fundamentals,9786202554091,LAP Lambert Academic Publishing,20200511,Java
+79,Kern Java Fundamentals,9786200957948,Sciencia Scripts,20200507,Java
+80,Java Programming 입문 마스터,9791162890349,북스홀릭퍼블리싱,20210302,Java
+81,Across The Equator (A Holiday Trip In Java),9789353421212,Astral International Pvt. Ltd.,20190610,Java
+82,The Java Module System,9781617294280,Manning Pubns Co,20190606,Java
+83,Quadernet JavaScript 1 (Desenvolupament Web a Entorn Client. 99 Pr?ctiques i Exercicis o M?s.),9780244463328,Lulu Press,20190513,Java
+84,Java EE 8 High Performance,9781788473064,Packt Publishing,20180130,Java
+85,Spring入門 改訂新版 (Javaフレ-ムワ-ク.より良い設計とア-キテクチャ),9784774182179,技術評論社,20170614,Java
+86,JavaScript Concurrency,9781785889233,Packt Publishing,20160701,Java
+87,Starting Out with Java (From Control Structures Through Data Structures),9780134038179,Addison-Wesley Professional,20150323,Java
+88,"Objektinis programavimas (teorija, Java, Android)",9781300204503,Lulu Press,20120920,Java
+89,Building Java Programs (A Back to Basics Approach),9780133451023,Addison-Wesley Professional,20130311,Java
+90,Spring3入門 (Javaフレ-ムワ-ク.より良い設計とア-キテクチャ),9784774153803,技術評論社,20121106,Java
+91,Making Music with Java,9781409281337,Lulu.com,20090517,Java
+92,Big Java: Late Objects,9781118087886,John Wiley & Sons,20120201,Java
+93,Scjd Exam with J2se 5 (Expert’s Voice in Java),9781590595169,Apress,20050829,Java
+94,Building Java Programs,9780321382832,Addison-Wesley,20070216,Java
+95,TCP/IP Sockets in Java (Practical Guide for Programmers),9780123742551,Morgan Kaufmann,20080215,Java
+96,알기 쉽게 해설한 JAVA 7th + Workbook,9788982417191,이한출판사,20110201,Java
+97,Java Security Handbook,9780672316029,Sams,20000901,Java
+98,"Java Security, 2/E 반양장",9780596001575,O&#39;Reilly,20010501,Java
+99,"Absolute Java, 3/e 반양장",9780321487926,Addison-Wesley,20070315,Java
+0,C# for Java Developers,9780735617797,Microsoft Press,20020914,Java
+1,Java & XML for Dummies,9780764516580,John Wiley & Sons,20020705,Java
+2,JavaScript Demystified,9780072261349,McGraw-Hill/Osborne Media,20050501,Java
+3,Building Java Programs,9780273793335,Pearson Group,20130613,Java
+4,자바 최적화(Optimizing Java) (가장 빠른 성능을 구현하는 검증된 10가지 기법),9791162241776,한빛미디어,20190429,Java
+5,The Case of Kinolo Java,9781528942423,Austin Macauley,20200630,Java
+6,Peeps at Many Lands: Java.,9781013301001,Legare Street Press,20210909,Java
+7,Peeps at Many Lands: Java.,9781013316111,Legare Street Press,20210909,Java
+8,"Effective Java(이펙티브 자바) (최신 자바 7,8에 대한 주석 수록)",9788966261161,인사이트,20140822,Java
+9,The JavaScript Workshop,9781838641917,Packt Publishing,20191128,Java
+10,Professional JavaScript,9781838820213,Packt Publishing,20190930,Java
+11,"Singapur, Malacca, Java",9783734010859,Outlook Verlag,20180920,Java
+12,Java Software Solutions,9780134462028,Pearson,20170220,Java
+13,Java Testing with Spock,9781617292538,Manning Publications,20160331,Java
+14,JAVA 웹서비스 구축(Second Edition) (EJB 3.1부터 클라우드 컴퓨팅까지),9788997570829,도서출판 홍릉(홍릉과학출판사),20130410,Java
+15,Big Java: Early Objects,9781118431115,John Wiley & Sons,20130104,Java
+16,Javascript 24-hour Trainer,9780470647837,John Wiley & Sons Inc,20101119,Java
+17,Objects First with Java,9780132835541,Pearson Higher Education,20110930,Java
+18,Introduction to Interactive Programming on the Internet (Using Html & Javascript),9780471383666,John Wiley & Sons,20001123,Java
+19,C# For Java Programmers,9781931836548,syngress,20020601,Java
+20,EclipseではじめるJavaフレ-ムワ-ク入門,9784798027821,秀和システム,20101101,Java
+21,Java How to Program 반양장,9780130341518,Prentice-Hall,20010801,Java
+22,Java Security Solutions,9780764549281,John Wiley & Sons,20020801,Java
+23,HTML5 + CSS3 + Javascript 웹 프로그래밍,9788970508887,생능출판,20170116,Java
+24,The History of Java; Vol. 1,9781015171633,Legare Street Press,20210910,Java
+25,The History of Java; Vol. 1,9781013872778,Legare Street Press,20210909,Java
+26,맛있는 MongoDB (JavaScript와 함께하는 NoSQL DBMS),9791190014687,비제이퍼블릭,20191227,Java
+27,JavaScript in Easy Steps,9781840788778,In Easy Steps,20200228,Java
+28,HTML5 & CSS & JavaScript,9791162890127,북스홀릭퍼블리싱,20190222,Java
+29,Clean Code in JavaScript,9781789957648,Packt Publishing,20200117,Java
+30,HTML5 JavaScript Summary (실무개발자가 콕 집어 풀어 쓴),9788960880993,디지털북스,20120510,Java
+31,JavaScript: The New Toys (The New Toys: Website Associated With Book),9781119367956,Wrox Pr Inc,20190911,Java
+32,JavaScript for Web Warriors,9780357638002,Cengage Learning,20210818,Java
+33,An Easy Approach to JAVA,9786139449927,LAP Lambert Academic Publishing,20190206,Java
+34,Learning Java with Games,9783319728858,Springer-Verlag New York Inc,20181127,Java
+35,Java 9 Dependency Injection,9781788296250,Packt Publishing,20180426,Java
+36,UML for Java Programmers,9780131428485,Prentice Hall,20030501,Java
+37,Cuadernillo JavaScript 2 (Desarrollo Web en Entorno Cliente de una  Calculadora),9780244641528,"Lulu Press, Inc.",20171118,Java
+38,Java in Two Semesters 반양장,9780077108892,McGraw-Hill,20210101,Java
+39,Javascript by Example 반양장,9780131401624,Prentice-Hall,20210101,Java
+40,"Java, Indonesia and Islam",9789400700550,Springer Verlag,20210101,Java
+41,JAVA 프로그래밍: Essential Course,9791195713530,앤아이컴즈,20160301,Java
+42,The JavaScript Adventure,9781329066175,Lulu.com,20150607,Java
+43,"Coding JavaScript Basics (Expert Advice, Made Easy)",9781783614189,Flame Tree Publishing,20150722,Java
+44,Java Servlet Programming,9780596000400,O&#39;Reilly Media,20130912,Java
+45,안드로이드 웹앱 (with HTML CSS JavaScript),9788979148299,한빛미디어,20110729,Java
+46,MySQL and Java Developer’s Guide (Java Open Source Library),9780471269236,John Wiley & Sons,20030201,Java
+47,Enterprise Java with UML,9780471267782,John Wiley & Sons,20030601,Java
+48,C++ for Java Programmers,9780139194245,Prentice Hall,20031001,Java
+49,"XML, XSLT, Java, and JSP (A Case Study in Developing a Web Application)",9780735710894,New Riders Publishing,20010701,Java
+50,JavaScript in Easy Steps,9781840785708,In Easy Steps,20130226,Java
+51,JAVA 프로그래밍 Essential Course,9788982418082,이한미디어,20140302,Java
+52,Developing Java Software,9780470090251,John Wiley & Sons,20051216,Java
+53,Java Development on PDAs (Building Applications for Pocket PC and Palm Devices),9780201719543,Addison-Wesley,20030604,Java
+54,Eclipse3ではじめるJavaフレ-ムワ-ク入門,9784798012568,秀和システム,20060310,Java
+55,On the Subject of &#34;Java&#34;,9780801426728,Longleaf Services on behalf of Cornell University,20120203,Java
+56,Arquitectura Java Solida,9781291167665,Lulu.com,20121102,Java
+57,"All in One Java 애플리케이션 개발 (Spring, Hibernate, MyBatis를 활용한)",9788994405223,와우북스,20141222,Java
+58,262가지 문제로 정복하는 코딩 인터뷰 in Java,9788966263196,인사이트,20211001,Java
+59,자바 프로그래밍 Java Programming (어려운 자바 쉽게 공부하기 자바 최고의 멘토가 전하는 학습 노하우),9788983797773,혜지원,20130220,Java
+60,Jakarta EE for Java Developers (Build Cloud-Native and Enterprise Applications Using a High-Performance Enterprise Java Platform),9789355510082,BPB Publications,20211216,Java
+61,THINKING JAVA PROGRAMMING,9788992376280,컴스페이스,20070720,Java
+62,Learn Java 12 Programming,9781789957051,Packt Publishing,20190430,Java
+63,Java 11 and 12 - New Features 반양장,9781789133271,Packt Publishing,20190327,Java
+64,Learning Wireless Java 반양장,9780596002435,Oreilly & Associates,20210101,Java
+65,Java for Data Science 반양장,9781785280115,Packt Publishing,20170112,Java
+66,Learning Java Lambdas 반양장 (An in-depth look at one of the most important features of modern Java),9781787282087,Packt Publishing,20170331,Java
+67,Advanced Java Programming,9780199455508,OUP India,20150528,Java
+68,Java 7 : The Complete Reference,9780071606301,McGraw-Hill,20111202,Java
+69,Java Internationalization,9780596000196,O&#39;Reilly Media,20010301,Java
+70,Learn JavaScript VISUALLY,9781495233005,Createspace,20140718,Java
+71,처음 시작하는 HTML & JavaScript,9788989484523,이비컴(ebeecomm),20060227,Java
+72,Java Persistence with Jpa,9781432755850,Outskirts Press,20100331,Java
+73,Globus Toolkit 4 (Programming Java Services),9780123694041,Morgan Kaufmann,20051128,Java
+74,Java 7’s Dual-Pivot Quicksort,9783639679670,AV Akademikerverlag,20141209,Java
+75,Alice in Action With Java,9781423900962,Course Technology,20070102,Java
+76,Java 7 for Absolute Beginners,9781430236863,Apress,20111221,Java
+77,Developing Java Beans 반양장,9781565922891,O&#39;Reilly,19970611,Java
+78,Pro JavaScript Techniques,9781590597279,Apress,20061211,Java
+79,Music in Central Java 반양장,9780195147360,Oxford USA,20070309,Java
+80,인터랙티브 웹 콘텐츠 제작 프로젝트 (HTML5 CSS3 JavaScript로의 코드 여행),9788994506746,제이펍,20130906,Java
+81,Getting Skilled with Java (Learn Java Programming from Scratch with Realistic Applications and Problem Solving Programmes),9789391392499,LIGHTNING SOURCE UK LTD,19000101,Java
+82,"Building JavaScript Games (for Phones, Tablets, and Desktop)",9781430265382,Springer,20140714,Java
+83,Learn JavaScript Visually,9780993836701,NAI Inc.,20140718,Java
+84,Scala for Java Developers,9781783283637,Packt Publishing,20140428,Java
+85,NodeJS (Programmare Web-App Con Javascript),9798201574017,Draft2Digital,20220329,Java
+86,Java Programming(자바 프로그래밍) (꼭 알아야 하는),9788983799951,혜지원,20190724,Java
+87,JAVA PROGRAMMING : 이클립스 기반 (이클립스 기반),9788957172018,내하출판사,20080916,Java
+88,모바일 웹 (상상력과 HTML5 CSS3 JavaScript로 빚는),9788965400295,프리렉,20120725,Java
+89,Fondamenti di base di Java,9786200957924,Sciencia Scripts,20200507,Java
+90,Fundamentos do nucleo Java,9786200957979,Sciencia Scripts,20200507,Java
+91,Java from the Beginning 반양장,9780321154163,Addison-Wesley,20210101,Java
+92,JavaScript(TM) Step by Step,9780735624498,Microsoft Press,20210101,Java
+93,Mac OS X for Java Geeks 반양장,9780596004002,Oreilly & Associates,20210101,Java
+94,알고리즘과 자료구조(자바+파이썬) (Java와 Python 예제로 익히는 알고리즘 프로그래밍),9788956747880,정보문화사,20180810,Java
+95,Java 9 Programming Blueprints,9781786460196,Packt Publishing,20170728,Java
+96,Java Performance Companion,9780133796827,Addison-Wesley Professional,20160507,Java
+97,"New Java: Java 1.4, Java 5, and Java 6",9781430326281,Lulu.com,20071001,Java
+98,Learn to Program with Java,9780072131895,McGraw-Hill,20020102,Java
+99,Object-Oriented JavaScript,9781849693127,Packt Publishing,20130731,Java
+0,Learn Java With Jbuilder 6,9781893115989,Apress,20020401,Java
+1,Moodle JavaScript Cookbook,9781849511902,Packt Publishing,20110425,Java
+2,Data Structures Using Java,9781449628079,Jones & Bartlett Publishers,20120101,Java
+3,Java Websocket Programming,9780071827195,McGraw-Hill/Osborne Media,20130918,Java
+4,"Object-Oriented JavaScript (Create scalable, reusable high-quality JavaScript applications and libraries)",9781847194145,Packt Publishing,20080724,Java
+5,Coffee Love (50 Ways to Drink Your Java),9780470289372,Wiley,20090309,Java
+6,HTML CSS JAVASCRIPT 쉽게 배우기 (HTML과 CSS 그리고 자바스트립트를 처음 접하는 입문서),9788980813155,현우사,20100830,Java
+7,LEGO NXT JAVA NXJ 로봇 프로그래밍 (창의적 공학설계를 위한),9788994393117,북스홀릭,20100825,Java
+8,Pro JMX: java management extensions (Java Management Extensions),9781590591017,Apress,20040201,Java
+9,HTML and Javascript Basics,9780538742351,Course Technology,20100208,Java
+10,Peeps at Many Lands - Java,9781406744194,Barber Press,20070315,Java
+11,Getting Started with Grunt: The JavaScript Task Runner (The Javascript Task Runner),9781783980628,Packt Publishing,20131231,Java
+12,Java Database Connectivity,9783941482302,Europ Ischer Hochschulverlag Gmbh & Co. Kg,20090707,Java
+13,DWR Java AJAX Applications,9781847192936,Packt Publishing,20081025,Java
+14,Brush-up java for Interview,9781735222233,Ashutosh Shashi,20200822,Java
+15,블록체인 코딩 (JavaScript와node.js로 분산형 네트워크 구축),9791156007043,도서출판 홍릉(홍릉과학출판사),20200120,Java
+16,Cryptography and Cryptanalysis in Java (Creating and Programming Advanced Algorithms with Java SE 17 LTS and Jakarta EE 10),9781484281048,APress,20220509,Java
+17,HTML5와 Java Script 기반의 웹 프로그래밍 정석 (누구나 쉽게 배울 수 있는 웹 개발 학습서의 정석),9788983799067,혜지원,20160920,Java
+18,Java Deep Learning Cookbook,9781788995207,Packt Publishing,20191108,Java
+19,Java 11 Cookbook - Second Edition,9781789132359,Packt Publishing,20180929,Java
+20,"Core Java, Volume I: Fundamentals",9780137673629,Addison-Wesley Professional,20211215,Java
+21,Java How to Program 8/E 반양장,9780131364837,Pearson Education Asia,20090215,Java
+22,Quinze ans de sejour a Java (Et dans les principales iles de l’archipel de la Sonde et des possessions neerlandaises des Indes Orientales;),9783337117481,Hansebooks,20170523,Java
+23,Java All-In-One for Dummies,9781119247791,For Dummies,20170501,Java
+24,Java EE 디자인 패턴: 아키텍처를 이해하기 위한 디자인 패턴,9791160501285,길벗,20170303,Java
+25,Eclipse4.3ではじめるJavaプログラミング入門,9784798038872,秀和システム,20130910,Java
+26,Javascript: Novice to Ninja (Novice to Ninja),9780992461225,Sitepoint,20141206,Java
+27,Design Patterns in Java 반양장,9780321333025,Addison-Wesley,20100406,Java
+28,Java Software Solutions 반양장,9780321409492,Addison-Wesley,20060228,Java
+29,Java Software Solutions 반양장,9780321197191,Addison-Wesley,20030801,Java
+30,"Pro Java 6 3D Game Development: Java 3d, Jogl, Jinput and Joal APIs (Java 3D, JOGL, JInput and JOAL APIs)",9781590598177,Springer,20080705,Java
+31,XML Development with Java 2,9780672316531,Sams,20000901,Java
+32,Pro JavaScript for Web Apps,9781430244615,Apress,20120620,Java
+33,Java Microarchitectures 반양장,9781402070341,Kluwer,20020430,Java
+34,"Professional Java, JDK, 6/e",9780471777106,Wiley,20090629,Java
+35,JavaScript Web Applications (모던 자바스크립트 애플리케이션 개발에 필요한 모든 이야기),9788979149258,한빛미디어,20120601,Java
+36,Java Quick Syntax Reference,9781430262862,Apress,20130831,Java
+37,Beginning Windows Store Application Development: HTML and JavaScript Edition (HTML and JavaScript Edition),9781430257790,Springer,20130831,Java
+38,Core Java Professional 2014,9781499643060,CreateSpace Independent Publishing Platform,20140521,Java
+39,Mastering JavaFX 8 Controls,9780071833776,McGraw-Hill/Osborne Media,20140707,Java
+40,"Pro Java 6 3D Game Development: Java 3d, Jogl, Jinput and Joal APIs (Java 3d, Jogl, Jinput and Joal Apis)",9781430211860,Apress,20141115,Java
+41,Java 7: A Comprehensive Tutorial (A Comprehensive Tutorial),9780980839661,Brainysoftware,20140515,Java
+42,Java Web Services Unleashed,9780672323638,Sams,20020401,Java
+43,Quick Start Guide to Javafx,9780071808965,McGraw-Hill/Osborne Media,20140401,Java
+44,"Mastering Java Persistence API (JPA) (Realize Java’s Capabilities Spanning RDBMS, ORM, JDBC, Caching, Locking, Transaction Management, and JPQL)",9789355511263,BPB Publications,20220312,Java
+45,Learn to Code with JavaScript,9781925836400,Sitepoint,20210406,Java
+46,애프터스킬 자바 프로그래밍 100% 실전 가이드 세트 - 전2권 (기본은 물론 응용까지 새로운 JAVA 필독서 / 최신 JDK 11 적용),9791164260539,아이콕스(iCox),20190520,Java
+47,애프터스킬 자바 프로그래밍 100% 실전 가이드 1 (기본은 물론 응용까지 새로운 JAVA 필독서 / 최신 JDK 11 적용),9791164260546,아이콕스(iCox),20190520,Java
+48,애프터스킬 자바 프로그래밍 100% 실전 가이드 2 (기본은 물론 응용까지 새로운 JAVA 필독서 / 최신 JDK 11 적용),9791164260553,아이콕스(iCox),20190520,Java
+49,Raptor와 Javascript로 배우는 프로그래밍 원리,9791185123813,북스홀릭퍼블리싱,20170220,Java
+50,"Java, the garden of the East",9789354002168,Alpha Editions,20200225,Java
+51,JavaScript + jQuery 입문 + 실전북 (배너부터 반응형 패럴랙스 스크롤링 웹사이트 제작까지),9791185553030,앤써북,20140425,Java
+52,"Core Java: Advanced Features, Volume 2",9780137871070,Oracle Press,20220407,Java
+53,모던 자바스크립트(Modern JavaScript) (최신 웹 환경을 위한 자바스크립트 개발 기법),9788960775329,에이콘출판,20140228,Java
+54,Introduction to Software Design with Java,9783030978983,Springer,20220603,Java
+55,Java Concurrency in Practice,9780321349606,Addison-Wesley,20060531,Java
+56,Javascript HTML5 CSS3 Expert,9788963412740,영민,20170828,Java
+57,Test-Driven Java Development,9781783987429,Packt Publishing,20160701,Java
+58,Cafe Passion: A Java Romance,9781491809259,Authorhouse,20130918,Java
+59,"Better, Faster, Lighter Java",9780596006761,O&#39;Reilly & Associates,20040601,Java
+60,Java Software Structures 반양장,9780321245847,Addison-Wesley,20041201,Java
+61,Next Generation Java Testing (TestNG and Advanced Concepts),9780321503107,Addison-Wesley Professional,20071025,Java
+62,Pro Ajax and Java Frameworks,9781590596777,Apress,20060731,Java
+63,Batik : Fabled Cloth of Java,9780794606688,Tuttle,20101001,Java
+64,Mastering Java Script Part 2,9781562438371,Ddc,,Java
+65,Java Server and Servlets 반양장,9780201674910,Addison-Wesley,20000301,Java
+66,Java SE 8 for the Really Impatient,9780321927767,Addison-Wesley Professional,20140124,Java
+67,Javafx 8: Introduction by Example (Introduction by Example),9781430264606,Apress,20140527,Java
+68,Concurrency (State Models & Java Programs),9780470093559,John Wiley & Sons,20060421,Java
+69,"Java, the Garden of the East",9781906393021,Trotamundas Press,20070115,Java
+70,JavaScript & jQuery(자바스크립트&제이쿼리),9788970187556,기한재,20150310,Java
+71,자바 프로그래밍 기초(JAVA Programming),9788993712780,휴먼싸이언스,20161121,Java
+72,HTML5 + CSS3 + JavaScript로 배우는 웹프로그래밍 기초 (기초부터 모바일웹까지 빠르고 쉽게 배우는 웹개발 지침서),9788992649209,인피니티북스,20131219,Java
+73,머신러닝 TensorFlow.js JavaScript (자바스크립트와 TensorFlow.js 환경에서 머신러닝 구현),9791196672430,생각나눔,20190415,Java
+74,Java Management Extensions 반양장,9780596002459,O&#39;Reilly,20210101,Java
+75,JavaScript Patterns(자바스크립트패턴),9788966260157,인사이트,20111103,Java
+76,HTML + JavaScript & CSS 실무테크닉,9788931550375,성안당,20090714,Java
+77,Enterprise Java Microservices,9781617294242,Manning Pubns Co,20181106,Java
+78,Java EE 8 Development with Eclipse,9781788833776,Packt Publishing,20180629,Java
+79,Java Deep Learning Essentials,9781785282195,Packt Publishing,20160531,Java
+80,Java EE 8 Application Development,9781788293679,Packt Publishing,20171212,Java
+81,Die Terti?rschichten auf Java,9783743653160,Hansebooks,20170112,Java
+82,Java Programming Applications,9781465289926,Kendall Hunt Pub Co,20160426,Java
+83,Walking in the Supernatural: Another Cup of Spiritual Java (Another Cup of Spiritual Java),9780768440775,Destiny Image,20150323,Java
+84,스칼라로 배우는 함수형 프로그래밍 (스칼라와 Java8 개발자를 위한 궁극의 함수형 프로그래밍 지침서),9791185890180,제이펍,20150316,Java
+85,"Algorithms in Java, Parts 1-4",9780201361209,Addison-Wesley,20020723,Java
+86,Java Web Services Programming,9780764549526,John Wiley & Sons,20020801,Java
+87,Mastering Html and Javascript (An Introduction to Web Programming),9780471715948,John Wiley & Sons Inc,20070831,Java
+88,Java Programming Step-By-Step,9780956575821,Ability First Limited,20120113,Java
+89,"Object Oriented Software Engineering, 3/E (IE) (Using UML, Patterns, and Java)",9780138152215,Pearson Education,20090801,Java
+90,Classical and Quantum Computing: With C++ and Java Simulations (With C++ and Java Simulations),9783764366100,Springer,20020118,Java
+91,JavaScript for Web Developers,9780470227800,Wiley,20100326,Java
+92,JavaScript Bible [With CDROM],9780470526910,John Wiley & Sons Inc,20101022,Java
+93,Automate with Grunt: The Build Tool for JavaScript (The Build Tool for Javascript),9781941222119,Pragmatic Bookshelf,20140503,Java
+94,Java Illuminated Intl Version,9781449620561,Jones & Bartlett,20110515,Java
+95,Java in Academia and Research,9781463789459,Createspace,20111130,Java
+96,Jasperreports: Reporting for Java Developers (Reporting for Java Developers),9781904811909,Lightning Source Inc,20060730,Java
+97,"Developing Java Software, 2/E",9780471606963,John Wiley & Sons,20000329,Java
+98,"Java Me Game Programming, 2/E",9781598633894,Course Technology,20070628,Java
+99,Html5 and JavaScript Projects,9781430240327,Apress,20111017,Java
+0,Beginning Java with Websphere,9781430263012,Apress,20130930,Java
+1,Selenium with Java - A Beginner’s Guide (Web Browser Automation for Testing using Selenium with Java),9789391392680,BPB Publications,20220314,Java
+2,"Implementing Java Web Services (JAX-WS, SCA & ESB)",9788996103837,와우북스,20080925,Java
+3,Principes fondamentaux de Java,9786200957894,Sciencia Scripts,20200507,Java
+4,JAVA Programming for Beginners (The Simple Guide to Learning JAVA Programming fast!),9781761033094,Ingram Publishing,20200405,Java
+5,Hands-On Software Architecture with Java (Learn key architectural techniques and strategies to design efficient and elegant Java applications),9781800207301,Packt Publishing,20220318,Java
+6,R?ckreise von Java nach Europa,9783337359454,Hansebooks,20171129,Java
+7,"JavaScript & jQuery 웹 프로그래밍 입문 (ECMAScript 6(ES6), jQuery 3.x 대응)",9791185123929,북스홀릭퍼블리싱,20170825,Java
+8,Java Data Science Cookbook 반양장,9781787122536,Packt Publishing,20170330,Java
+9,Indonesia-Eastern Java to Bali,9781633650015,Tpprince Esquire International,20160321,Java
+10,Java for Dummies eLearning Kit,9781118098783,For Dummies,20150914,Java
+11,자바 프로그래밍(Java for Programmers) (200개 이상의 예제 포함),9788994797052,비팬북스,20120824,Java
+12,Implementing SOA Using Java EE,9780321492159,Addison-Wesley Professional,20091223,Java
+13,"Java How to Program, 10/E (IE)",9781292018195,Pearson Education,20110319,Java
+14,Murach’s Java Servlets and JSP (Training & Reference),9781890774783,Mike Murach & Associates,20140609,Java
+15,Principles of Computer Organization and Assembly Language (Using the Java Virtual Machine),9780131486836,Pearson,20061201,Java
+16,13歲からはじめるJava iアプリゲ-ムプログラミング敎室,9784899772354,ラトルズ,20090201,Java
+17,Java Applets 3rd Edition (B&w),9780615204536,Elizabeth Boese,20080414,Java
+18,Evolution von Java-Komponenten,9783639408942,AV Akademikerverlag,20120511,Java
+19,Java Design Pattern Essentials,9780956575807,Ability First Limited,20100618,Java
+20,Advanced Java Game Programming,9781590591239,Apress,20040301,Java
+21,"Intro to Java Programming, 7/E",9780136059660,Prentice-Hall,,Java
+22,Portabilitat von Java-Software,9783639407013,AV Akademikerverlag,20120509,Java
+23,Learn JavaFX Game and App Development: With FXGL 17,9781484286241,Apress,20220826,Java
+24,"문제해결을 통한 웹 프로그래밍 입문 (HTML5, CSS3, Javascript, JQuery)",9788993163612,이한미디어,20191031,Java
+25,Java Database Best Practices 반양장,9780596005221,Oreilly & Associates,20210101,Java
+26,Web Development with Node and Express: Leveraging the JavaScript Stack (Leveraging the Javascript Stack),9781492053514,Oreilly & Associates Inc,20200104,Java
+27,Unhappy Returns: Java Revisited,9780244495220,Lulu.com,20190806,Java
+28,Crystal Clear Java: 1st Edition,9781546271772,Authorhouse,20190114,Java
+29,Java Deep Learning Projects 반양장 (Implement 10 real-world deep learning applications using Deeplearning4j and open source APIs),9781788997454,Packt Publishing,20181129,Java
+30,"자바스크립트+jQuery (JavaScript부터 JSON, AJAX, Mobile까지 다루는)",9788931458015,영진닷컴,20180630,Java
+31,Java Persistence with Hibernate,9781617290459,Manning Publications,20151108,Java
+32,Javascript for Kids for Dummies,9781119119869,For Dummies,20150814,Java
+33,"Security for Web Developers: Using JavaScript, HTML, and CSS (Using Javascript, Html, and Css)",9781491928646,O&#39;Reilly Media,20151125,Java
+34,Beginning Programming With Java (Easy Version 2014),9781499643039,CreateSpace Independent Publishing Platform,20140521,Java
+35,Micro Java(tm) Game Development,9780672323423,Addison-Wesley Professional,20020401,Java
+36,HTML5+JavaScriptで動く電子書籍アプリを自作する本,9784426112493,自由國民社,20120401,Java
+37,Building Web Services With Java,9780672321818,Macmillan Computer,20011201,Java
+38,Secrets of the Javascript Ninja,9781933988696,Manning Publications,20121228,Java
+39,Just Java 1.2 (Java Series) 반양장,9780130105349,Prentice-Hall,19981201,Java
+40,Java Servlets Developer’s Guide,9780072222623,McGraw-Hill/Osborne Media,20020221,Java
+41,JavaScript : A Beginner’s Guide,9780072131406,McGraw-Hill,20010301,Java
+42,Java Application Architectu 반양장,9780321247131,Prentice Hall,20120807,Java
+43,Javascript & Dhtml Cookbook 반양장,9780596514082,.,20081014,Java
+44,Dynamic JavaScript(다이나믹 자바스크립트),9788994914374,북스홀릭,20110831,Java
+45,Programming with Alice and Java,9780321549358,Pearson Education,20080215,Java
+46,Principles of Program Design: Problem Solving with JavaScript (Problem Solving with Javascript),9781111526504,Course Technology,20110222,Java
+47,Alice 3 in Action with Java(tm),9781133589181,Cengage Learning,20140401,Java
+48,Java Ee 6 Development with Netbeans 7,9781849512701,Packt Publishing,20110623,Java
+49,Head First JavaScript Programming (게임과 퍼즐로 배우는 자바스크립트입문서 | 대화형 웹애플리케이션의 시작),9788968481567,한빛미디어,20150201,Java
+50,Head First Java: A Brain-Friendly Guide,9781491910771,O&#39;Reilly Media,20220104,Java
+51,Murach’s Java Programming (6th Edition),9781943872879,"Mike Murach & Associates, Inc.",20220101,Java
+52,"Java Network Programming, 3/e 반양장",9780596007218,Oreilly & Associates,20210101,Java
+53,Programming with Alice & Java 반양장,9780321512093,Pearson Education Corporate,20210101,Java
+54,Javascript ; Pocket Reference 반양장,9780596004118,Oreilly & Associates,20210101,Java
+55,UNDERSTANDING OF HTML JAVASCRIPT,9788982416569,이한출판사,20090830,Java
+56,Reactive Programming with Java 9,9781787124233,Packt Publishing,20180601,Java
+57,"Learning JavaScript Robotics 반양장 (Design, build, and program your own remarkable robots with JavaScript and open source hardware)",9781785883347,Packt,20170317,Java
+58,Introducing Javafx 8 Programming,9780071842556,McGraw-Hill Education,20150630,Java
+59,JavaScript Concepts: 1st Edition,9781524694456,Authorhouse,20170616,Java
+60,Evaluation von Java Data Objects,9783867465991,Examicus Verlag,20160811,Java
+61,Programming Abstractions in Java,9780134421186,Pearson College Div,20160219,Java
+62,Java EE 7 Web Application Development,9781782176640,Packt Publishing,20150930,Java
+63,OpenCV Computer Vision with Java (Create Multiplatform Computer Vision Desktop and Web Applications Using the Combination of Opencv and Java),9781783283972,Packt Publishing,20150621,Java
+64,Java Programming 24-Hour Trainer,9781118951453,Wrox Press,20150417,Java
+65,Maximum Lego Ev3: Building Robots with Java Brains (Building Robots With Java Brains),9780986832291,Independent Pub Group,20140922,Java
+66,Beginning Cryptography with Java,9780764596339,Wrox Press,20050805,Java
+67,Beginning Java Google App Engine,9781430225539,Springer-Verlag New York Inc,20091201,Java
+68,Supercharged JavaScript Graphics,9781449393632,O&#39;Reilly Media,20110729,Java
+69,"The Java EE 7 Tutorial, Volume 1",9780321994929,Addison-Wesley Professional,20140506,Java
+70,Eclipse Web Tools Platform: Developing Java Web Applications (Developing Java Web Applications),9780321396853,Addison-Wesley Professional,20070525,Java
+71,Java 2 Core Language Little Black Book,9781932111668,Paraglyph Press,20020901,Java
+72,"Pro Android Web Game Apps: Using Html5, Css3 and JavaScript (Using HTML5, CSS3 and JavaScript)",9781430238195,Apress,20121031,Java
+73,Java Programming 24-Hour Trainer,9780470889640,John Wiley & Sons Inc,20110215,Java
+74,Amazon Cloud Computing with Java,9780557255276,Lulu.com,20100111,Java
+75,iPhone JavaScript Cookbook(한국어판) (자바스크립트로 만드는 아이폰 애플리케이션),9788960773110,에이콘출판,20120620,Java
+76,Learn to Program with JavaScript,9781847289995,Lulu Press,20060826,Java
+77,Programming for Everyone in Java,9780387986838,Springer-Verlag Telos,19990501,Java
+78,"State and Statecraft in Old Java (A Study of the Later Mataram Period, 16th to 19th Century)",9786028397438,Equinox Publishing,20090901,Java
+79,"Object First with Java, 4/e, 4/E",9780135045879,Prentice-Hall,,Java
+80,JavaScript 2.0: The Complete Reference,9780072253573,Osborne/McGraw-Hill,20040701,Java
+81,Introduction to Java Programming,9781292041506,Pearson Higher Education,20131101,Java
+82,Express Yourself With Javascript (Lessons That Take You Beyond the Basics),9780133950007,Prentice Hall,20141111,Java
+83,JavaScript Programming for Beginners (How to Learn JavaScript in Less Than a Week. The Ultimate Step-by-Step Complete Course from Novice to Advanced Programmer),9781803668123,Cristina Cafagno,20210719,Java
+84,Payara Micro Revealed (Cloud-Native Application Development with Java),9781484281604,APress,20220507,Java
+85,Understanding of Java Programming (자바프로그래밍의 이해),9788982416545,이한출판사,20090801,Java
+86,Java to Kotlin: A Refactoring Guidebook,9781492082279,O&#39;Reilly Media,20211116,Java
+87,Fundamental Networking in Java 반양장,9781846280306,Springer,20210101,Java
+88,자바스크립트 & 제이쿼리 (바로 배워서 바로 써먹는 JavaScript & jQuery),9788993827941,지앤선,20150430,Java
+89,"Domain-Driven Design with Java - A Practitioner’s Guide (Create simple, elegant, and valuable software solutions for complex business problems)",9781800560734,Packt Publishing Limited,20220819,Java
+90,Cloud-Native Applications in Java (Build microservice-based cloud-native applications that dynamically scale),9781787124349,Packt Publishing,20181002,Java
+91,Hands-On Robotics with JavaScript (Build robotic projects using Johnny-Five and control hardware with JavaScript and Raspberry Pi),9781789342055,Packt,20181201,Java
+92,Mastering Java 11 -Second Edition,9781789137613,Packt Publishing,20180928,Java
+93,Electronではじめるアプリ開發 (JavaScript/HTML/CSSでデスクトップアプリを作ろう),9784774188195,技術評論社,20170328,Java
+94,The Kenpeitai in Java and Sumatra,9786028397100,Equinox Publishing (Indonesia),20100118,Java
+95,Graphic Java 2: Mastering the Jfc (Digital Carrier),9780130796677,Prentice Hall,19990301,Java
+96,Java Servlet and Jsp Cookbook 반양장,9780596005726,Oreilly & Associates,20040101,Java
+97,Jax: Java APIs for XML Kick Start (Kick Start),9780672324345,Sams,20021001,Java
+98,Java Web Programming with Eclipse,9781453881590,Createspace,20101114,Java
+99,Head First HTML5 Programming: Building Web Apps with JavaScript (Building Web Apps with Javascript),9781449390549,O&#39;Reilly Media,20111019,Java
+0,Java Programming With Oracle Jdbc,9780596000882,O&#39;Reilly,20011201,Java
+1,인터넷 프로그래밍 입문: HTML CSS JavaScript (IT COOKBOOK),9788998756895,한빛아카데미,20140128,Java
+2,JavaScript for Absolute Beginners,9781430272199,Springer-Verlag New York Inc,20101130,Java
+3,Wireless Java for Symbian Devices,9780471486848,John Wiley & Sons,20010901,Java
+4,"JAVA LOST, A Child Imprisoned III (Part III, Aftermath and Part IV, On to a New Country)",9781460207796,FriesenPress,20130109,Java
+5,Distributed Programming With Java,9781884777653,Manning Publications,19990901,Java
+6,COBOL Programmers Swing with Java,9780521546843,Cambridge University Press,20050131,Java
+7,JavaScript Programmer’s Reference,9781430246299,Apress,20130327,Java
+8,jQuery and JavaScript in 24 Hours,9780672337345,Sams,20130701,Java
+9,Java EE Development with NetBeans (Develop Professional Enterprise Java Ee Applications Quickly and Easily With This Popular Ide),9781847195463,Packt Publishing,20081030,Java
+10,The Great Cultures of the Isle of Java,9781014685667,Legare Street Press,20210909,Java
+11,다양한 예제로 학습하는 데이터 구조와 알고리즘 for Java (문제 해결법부터 개선법까지),9788966260591,인사이트,20140222,Java
+12,Mastering AspectJ: Aspect-Oriented Programming in Java 반양장 (Aspect-Oriented Programming in Java),9780471431046,Wiley,20210101,Java
+13,Java Web Services in a Nutshell 반양장,9780596003999,O&#39;Reilly,20210101,Java
+14,Java Persistence With Hibernate 반양장,9781932394887,Oreilly & Associates,20210101,Java
+15,"Mastering CodingBat (Java), Vol. 2 (Intermediate A)",9783942017114,Black Swallowtail Publishing,20190429,Java
+16,Hands-On Design Patterns with Java,9781789809770,Packt Publishing,20190426,Java
+17,Developing Middleware in Java EE 8,9781788391078,Packt Publishing,20180529,Java
+18,D3.Js in Action: Data Visualization with JavaScript (Data Visualization With Javascript),9781617294488,Manning Publications,20171130,Java
+19,Java: Today’s Programming Language,9780997817218,Joslyn A. Smith,20160722,Java
+20,Test-driven JavaScript Development,9781782174929,Packt Publishing,20151221,Java
+21,Coding With Javascript for Dummies,9781119056072,For Dummies,20150515,Java
+22,Coffeescript: Accelerated JavaScript Development (Accelerated Javascript Development),9781941222263,Pragmatic Bookshelf,20150216,Java
+23,Test-Driven JavaScript Development,9780321683915,Addison-Wesley Professional,20100909,Java
+24,Learn Java for Android Development,9781430231561,Apress,20101031,Java
+25,Learn Java for Android Development,9781430257226,Apress,20130220,Java
+26,Pro JavaScript Design Patterns 반양장,9781590599082,Springer,20080311,Java
+27,The Definitive Guide to Java Swing,9781590594476,Apress,20050613,Java
+28,Pro JPA 2: Mastering the Java Persistence API (Mastering the Java Persistence Api),9781430219569,Apress,20090601,Java
+29,Intelligence Unleashed : Creating Lego Nxt Robots with Java 반양장 (Creating Lego Nxt Robots with Java),9780986832208,Variant Press,20110101,Java
+30,Java Enterprise Best Practices 반양장,9780596003845,Oreilly & Associates,20021201,Java
+31,Programming the Internet With Java,9780201175493,Prentice Hall,19970401,Java
+32,Java How to Program (Late Objects) (Late Objects Version),9780132575652,Prentice Hall,20140314,Java
+33,"Java Tools for Extreme Programming (Mastering Open Source Tools Including Ant, JUnit, and Cactus)",9780471207085,John Wiley & Sons,20011201,Java
+34,CoffeeScript (Accelerated JavaScript Development),9781934356784,Pragmatic Bookshelf,20110803,Java
+35,Cocos2D JavaScript를 이용한 HTML5 게임 개발,9788992939058,위키북스,20120718,Java
+36,Hi Coding with Scratch & JavaScript (Absolute Beginner’s Guide),9791187234043,앤아이컴즈,20170301,Java
+37,새롭게 시작하는 자바 프로그래밍(Java Programming) (개정판),9788955026917,글로벌,20170224,Java
+38,Modern Javascript for the Impatient,9780136502142,Addison-Wesley Professional,20190911,Java
+39,Mastering Java Machine Learning 반양장,9781785880513,Packt Publishing,20170630,Java
+40,Mastering Java for Data Science 반양장,9781782174271,Packt Publishing,20170428,Java
+41,Introduction to Programming in Java,9781292025568,Pearson,20170201,Java
+42,Mastering Microservices with Java 9,9781787281448,Packt Publishing,20171208,Java
+43,Modular Programming with JavaScript,9781785880650,Packt Publishing,20160722,Java
+44,Java Card: Sviluppo Di Applicazioni,9783639770537,Edizioni Accademiche Italiane,20150402,Java
+45,Programming JavaScript Applications,9781491950296,O&#39;Reilly Media,20140720,Java
+46,Groovy Programming (An Introduction for Java Developers),9780123725073,Morgan Kaufmann,20061208,Java
+47,Windows8プログラミングバイブル (Windowsストアアプリ&HTML5/CSS/JavaScript編),9784883378425,ソシム,20121122,Java
+48,Jboss Seam: Simplicity and Power Beyond Java Ee (Simplicity and Power Beyond Java EE),9780131347960,Prentice Hall,20070420,Java
+49,Java Studio Creator Field Guide 반양장,9780131491687,Prentice-Hall,20040628,Java
+50,Complete Java 2 Training Course 반양장,9780131017665,Prentice-Hall,20030501,Java
+51,Java Programming Interviews Exposed,9781118722862,John Wiley & Sons Inc,20140207,Java
+52,Restlet in Action: Developing RESTful Web APIs in Java (Developing RESTful Web APIs in Java),9781935182344,Manning Publications,20121005,Java
+53,JavaScript Cookbook: Programming the Web,9781492055754,O&#39;Reilly Media,20210907,Java
+54,Developing Object Oriented Programs in Java (Theory & Practice on OOP as per Anna University Syllabus),9798885307529,Repro Books Limited,20211216,Java
+55,"Exercices Corriges POO, Langage JAVA",9786200777980,Noor Publishing,20200626,Java
+56,"Html, CSS & JavaScript in Easy Steps",9781840788785,In Easy Steps Ltd,20200625,Java
+57,Java Look and Feel Design Guidelines,0201615851,인터비젼,19990930,Java
+58,프로그래밍 (with Raptor(flow-chart) & JavaScript),9791195713547,앤아이컴즈,20160301,Java
+59,Java Application Development On Linux,9780131436978,Prentice-Hall,20210101,Java
+60,Java Extreme Programming Cookbook 반양장,9780596003876,O&#39;Reilly,20210101,Java
+61,Hands-On JavaScript High Performance,9781838821098,Packt Publishing,20200228,Java
+62,"HTML5 웹프로그래밍 (실전 테마로 배우는 HTML5, CSS3, JavaScript, jQuery)",9788992649995,인피니티북스,20140129,Java
+63,HTML & JavaScript Practice Questions,9781545710470,Evincepub Publishing,20170701,Java
+64,Apache Spark 2.X for Java Developers,9781787126497,Packt Publishing,20180118,Java
+65,Data Structures & Algorithms in Java,9788131718124,Pearson,20160301,Java
+66,Neural Network Programming with Java,9781785880902,Packt Publishing,20160801,Java
+67,Deep Learning Javaプログラミング 深層學習の理論と實裝,9784844381280,インプレス,20161007,Java
+68,Java¿ and Jmx: Building Manageable Systems,9780672324086,Addison-Wesley Professional,20021201,Java
+69,Java 7 Recipes: A Problem-Solution Approach (A Problem-Solution Approach),9781430240563,Springer,20120213,Java
+70,Beginning Java Se 6 Game Programming,9781435458086,Course Technology,20110118,Java
+71,Beginning Java Ee 6 with Glassfish 3 (From Novice to Professional),9781430228899,Springer-Verlag New York Inc,20100531,Java
+72,Digital Image Processing in Java 반양장 (An Algorithmic Introduction Using Java),9781846283796,Springer,20071113,Java
+73,Definitive Guide to Swing for Java 2,9781893115781,Springer,20001001,Java
+74,Web Workers: Multithreaded Programs in JavaScript (Multithreaded Programs in JavaScript),9781449322137,O&#39;Reilly Media,20120605,Java
+75,"Learning PHP MySQL  JavaScript(한국어판) (소셜 웹 개발자를 위한 3대 핵심 기술 PHP, MySQL, 자바스크립트)",9788960772199,에이콘출판,20110817,Java
+76,"실전프로젝트 반응형 웹퍼블리싱 (with HTML5, CSS3, Javascript, jQuery)",9788996852124,icox(아이콕스),20141031,Java
+77,Murach’s Beginning Java with Eclipse,9781890774899,Mike Murach & Associates,20150824,Java
+78,Java Programming: From The Ground Up,9780070181397,McGraw-Hill Professional Publishing,20090201,Java
+79,How to Do Everything with JavaScript,9780072228878,Osborne/McGraw-Hill,20030201,Java
+80,Software Design Patterns for Java Developers (Expert-led Approaches to Build Re-usable Software and Enterprise Applications: Expert-led Approaches to Build Re-usable Software and Enterprise Applications (English Edition)),9789391392475,BPB Publications,20211130,Java
+81,"HTML5 캔버스 (HTML5, CSS, JavaScript를 함께 배우는 게임 학습서)",9791186697245,비제이퍼블릭,20161109,Java
+82,Natural Language Processing with Java (Techniques for building machine learning and neural network models for NLP),9781788993494,Packt,20181001,Java
+83,Java and Eclipse for Computer Science,9780991188734,"Annabooks, LLC.",20180801,Java
+84,Building Parsers with Java? [With CD],9780201719628,Addison-Wesley,20010301,Java
+85,Starting Out with Java: Early Objects (Early Objects),9780134462011,Pearson,20170227,Java
+86,Murach’s Beginning Java with NetBeans,9781890774844,Mike Murach & Associates,20150629,Java
+87,Natural Language Processing with Java (Explore Various Approaches to Organize and Extract Useful Text from Unstructured Data Using Java),9781784391799,Packt Publishing,20150326,Java
+88,Java Programming for Spatial Sciences,9780415260985,CRC Press,20020601,Java
+89,Java Outside in Hardback [With CDROM],9780521811989,Cambridge University Press,20030601,Java
+90,JasperReports 3.5 for Java Developers,9781847198082,Packt Publishing,20090817,Java
+91,Beginning Java 5 Game Programming 반양장,9781598631500,Course Technology,20060502,Java
+92,Introduction to Programming With Java,9780073047027,.,20071207,Java
+93,Java: Practical Guide for Programmers,9781558609099,Morgan Kaufmann,20021201,Java
+94,"Algorithms in Java: Parts 1-4; Part 5 (Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms)",9780201775785,Addison-Wesley Professional,20030901,Java
+95,Learn Objective-C for Java Developers,9781430223696,Apress,20090901,Java
+96,.NET Development for Java Programmers,9781590590386,Apress,20020701,Java
+97,15歲からはじめるAndroidわくわくプログラミング敎室 Java超入門編,9784899772910,ラトルズ,20110501,Java
+98,Introduction to Java Programming 2014 (Easy Version),9781499643022,CreateSpace Independent Publishing Platform,20140521,Java
+99,Mastering Lambdas: Java Programming in a Multicore World (Java Programming in a Multicore World),9780071829625,McGraw-Hill/Osborne Media,20141013,Java
+0,Beginning Programming with Java for Dummies,9781119806912,For Dummies,20210928,Java
+1,웹 프로그래밍 (JAVA HTML CSS JavaScript JSP ORACLE JDBC),9788997570652,도서출판 홍릉(홍릉과학출판사),20130225,Java
+2,The Girl in the Blue Coat (An Algorithmic Introduction Using Java),9781447295013,Macmillan Children&#39;s Books,20160421,Java
+3,Java Software Development with Event B (A Practical Guide),9781681736891,Morgan and Claypool Publishers,20200127,Java
+4,웹 프로그래밍 (따라하며 익히는 HTML CSS JavaScript PHP 프로그래밍),9788978061872,한신대학교출판부,20160314,Java
+5,"Core Java Volume I--Fundamentals, 11/E",9780135166307,Prentice Hall,20180906,Java
+6,Computer Graphics for Java Programmers,9783319875323,Springer-Nature New York Inc,20180824,Java
+7,Java by Comparison: Become a Java Craftsman in 70 Examples (Become a Java Craftsman in 80 Examples),9781680502879,Pragmatic Bookshelf,20180525,Java
+8,Digital Image Processing (An Algorithmic Introduction Using Java),9781447166832,Springer-Verlag New York Inc,20160408,Java
+9,The Java Virtual Machine Specification,9780201432947,Addison-Wesley,19990401,Java
+10,Java : Learning to Program with Robots (Learning to Program With Robots),9780619217242,Course Technology,20060207,Java
+11,Java Ee 7 with Glassfish 4 Application Server,9781782176886,Packt Publishing,20140330,Java
+12,Data Structures and Algorithms in Java,9781118771334,John Wiley & Sons,20140128,Java
+13,Object Oriented Programming using JAVA,9788964490792,좋은땅,20100916,Java
+14,Spring Data: Modern Data Access for Enterprise Java (Modern Data Access for Enterprise Java),9781449323950,O&#39;Reilly Media,20121031,Java
+15,Data Structures and Algorithms in Java,9780131469143,Prentice Hall,20051216,Java
+16,Building an OCL Code Generator in Java,9783843385381,KS OmniScriptum Publishing,20110829,Java
+17,Professional Java for Web Applications,9781118656464,Wrox Press,20140228,Java
+18,Learn Html5 and JavaScript for Android,9781430243472,Apress,20120801,Java
+19,"Beginning Java 6 Game Programming, 2/e",9781598634761,Course Technology,20090730,Java
+20,Computer Graphics Using Java 2D and 3D,9780130351180,Pearson,20061206,Java
+21,JavaScript for Dummies Quick Reference (Quick Reference),9780764501128,Wiley,19970403,Java
+22,Modern Compiler Implementation in Java,9780521820608,Cambridge Univ. Press,20021101,Java
+23,Data Structures and Algorithms in Java,9780672324536,Sams,20021101,Java
+24,Java 8 New Features: A Practical Heads-Up Guide,9780992910570,P8tech,20140606,Java
+25,Java Deployment with Jnlp and Webstart,9780672321825,Sams,20010901,Java
+26,Computer Graphics Using JAVA 2D and 3D,9780132336093,Pearson Education Korea,,Java
+27,Java EE 7 Recipes: A Problem-Solution Approach,9781430244257,Apress,20121112,Java
+28,Java Card for E-Payment Applications 반양장,9781580532914,Artech House,20210101,Java
+29,Object Oriented Programming Through Java,9781420047929,Taylor & Francis,20210101,Java
+30,Server-Side GPS and Assisted-GPS in Java,9781607839859,Artech House,20210101,Java
+31,Front-End 웹프로그래밍 (HTML5/CSS3/JavaScript/jQuery Mobile 중심의),9791188127535,마지원,20191023,Java
+32,HEAD FIRST JAVASCRIPT: 대화형 웹 애플리케이션의 시작 (대화형 웹 애플리케이션의 시작),9788979145823,한빛미디어,20080628,Java
+33,Java: High-Performance Apps with Java 9,9781789130515,Packt Publishing,20180309,Java
+34,"Java Software Solutions, Global Edition (A Global Perspective)",9781292221724,Pearson Higher Education,20171221,Java
+35,Learning Java by Building Android Games,9781784398859,Packt Publishing,20150131,Java
+36,Learning PHP MySQL JavaScript CSS(한국어판) (동적인 소셜 웹 개발을 위한 4가지 핵심 기술),9788960774421,에이콘출판,20130628,Java
+37,The Java EE 6 Tutorial: Advanced Topics,9780137081868,Addison-Wesley Professional,20130109,Java
+38,"Core Java, Volume II--Advanced Features (Advanced Features #2)",9780137081608,Prentice Hall,20130224,Java
+39,"Pro IOS Web Design and Development: Html5, Css3, and JavaScript with Safari (HTML5, CSS3, and Javascript With Safari)",9781430232469,Apress,20111201,Java
+40,"Data Structures Algorithms in Java, 3/E",9789814239233,Cengage Learning,20080430,Java
+41,Practical JavaScript for the Usable Web,9781590591895,Glasshaus,20020301,Java
+42,JavaScript & Jquery: The Missing Manual (The Missing Manual),9781491947074,O&#39;Reilly Media,20141003,Java
+43,Java Programming Academy(자바 프로그래밍 아카데미),9788994914633,북스홀릭,20120515,Java
+44,HTML5 CSS3 jQuery JavaScript 실무 활용 14가지,9788998139230,위키북스,20130610,Java
+45,Plug-In JavaScript: 100 Power Solutions,9780071738613,McGraw-Hill/Osborne Media,20101007,Java
+46,Tantric Temples: Eros and Magic in Java,9780892541690,Ibis Press,20111101,Java
+47,Learning Typescript: Enhance Your Web Development Skills Using Type-Safe JavaScript,9781098110338,O&#39;Reilly Media,20221018,Java
+48,"Lets 실전예제로 배우는 자바 프로그래밍(Java Programming) (웹, 모바일, 빅데이터 개발을 위한 자바 기초 입문)",9788965121206,아이비김영,20200918,Java
+49,Data Structures and Algorithms Using Java,9780763757564,Jones & Bartlett,20210101,Java
+50,Java Concepts for AP Computer Science 반양장,9780470181607,Wiley,20210101,Java
+51,Practical API Design : Confessions of a Java Framework Architect 반양장 (Confessions of a Java Framework Architect),9781430209737,Springer,20210101,Java
+52,Enterprise Web-based Computing with Java,9786202512145,LAP Lambert Academic Publishing,20200313,Java
+53,"Machine Learning in Java, Second Edition",9781788474399,Packt Publishing,20181128,Java
+54,Architecting Modern Java EE Applications,9781788393850,Packt Publishing,20171011,Java
+55,"Pro JavaFX Platform: Script, Desktop and Mobile RIA with Java Technology (Script, Desktop and Mobile Ria With Java)",9781430218753,Apress,20090429,Java
+56,Enterprise Java Development on a Budget: Leveraging Java Open Source Technologies (Leveraging Java Open Source Technologies),9781590591253,Apress,20040401,Java
+57,Practical Database Programming With Java,9780470889404,IEEE Computer Society Press,20110901,Java
+58,Pro JavaScript with MooTools: Laerning Advanced JavaScript Programming (Learning Advanced Javascript Programming),9781430230540,Apress,20100815,Java
+59,Learn Javascript And Ajax With W3Schools,9780470611944,John Wiley & Sons Inc,20101214,Java
+60,"Java Programming Language, 4/e, 4T/E 반양장",9780321349804,Addison-Wesley,20091005,Java
+61,Sams Teach Yourself Java in 24 Hours 반양장,9780672335754,Sams,20120309,Java
+62,Periplus Editions Travel Map Java & Bali,9780794606183,Tuttle,20100901,Java
+63,Java Card Technology for Smart Cards 반양장 (Architecture and Programmer’s Guide),9780201703290,Addison-Wesley,20110411,Java
+64,JavaScript本格入門 モダンスタイルによる基礎からAjax.jQueryまで,9784774144665,技術評論社,20101201,Java
+65,Migracao de Processos Em Aplicacoes Java,9783639694413,Novas Edicoes Academicas,20140918,Java
+66,Programacion en JavaScript  para principiantes (Como aprender JavaScript en menos de una semana. El curso completo definitivo paso a paso desde el principiante hasta el programador avanzado),9781803668338,Cristina Cafagno,20210906,Java
+67,Programming Typescript: Making Your JavaScript Applications Scale (Making Your Javascript Applications Scale),9781492037651,Oreilly & Associates Inc,20190518,Java
+68,Hands-On Machine Learning with JavaScript (Solve complex computational web problems using machine learning),9781788998246,Packt Publishing,20181001,Java
+69,3D Game Programming for Kids: Create Interactive Worlds with JavaScript (Create Interactive Worlds With Javascript),9781680502701,Pragmatic Bookshelf,20180325,Java
+70,Learning Reactive Programming with Java 8,9781785288722,Packt Publishing,20150619,Java
+71,Practical API Design: Confessions of a Java Framework Architect (Confessions of a Java Framework Architect),9781430243175,Apress,20120606,Java
+72,An Introduction to Programming Using Java,9781449639037,Jones & Bartlett Publishers,20110630,Java
+73,Java Persistence for Relational Databases,9781590590713,Apress,20030601,Java
+74,Across the Equator A Holiday Trip in Java,9783849157357,TREDITION CLASSICS,20121211,Java
+75,Pentaho Reporting 3.5 for Java Developers,9781847193193,Packt Publishing,20090715,Java
+76,Node: Up and Running: Scalable Server-Side Code with JavaScript (Scalable Server-side Code With Javascript),9781449398583,O&#39;Reilly Media,20120507,Java
+77,"Pro Android Web Apps: Develop for Android Using HTML5, CSS3 & JavaScript (Develop for Android Using HTML5, CSS3 & JavaScript)",9781430232766,Apress,20110224,Java
+78,Real-Time Java Programming: With Java RTS,9780137142989,Prentice Hall,20090616,Java
+79,Across the Equator A Holiday Trip in Java,9783849148508,TREDITION CLASSICS,20121126,Java
+80,Java Programming: What Do You Want to Do? (What Do You Want to Do?),9781450268943,iUniverse.com,20110128,Java
+81,Murach’s Java Servlets and JSP with CDROM,9781890774189,Mike Murach & Associates,20030101,Java
+82,The Essential Guide to Html5: Using Games to Learn Html5 and JavaScript (Using Games to learn HTML5 and JavaScript),9781430233831,Friends of ED,20110215,Java
+83,Great Ideas in Computer Science with Java,9780262024976,MIT Press,20011101,Java
+84,Sams Teach Yourself JavaScript in 21 Days,9780672322976,Sams,20020401,Java
+85,Creating Content Management Systems in Java,9781584504665,Charles River Media,20210101,Java
+86,Programming Games with Java - 11th Edition (A JFC Swing GUI Tutorial),9781937161347,Kidware Software & BibleByte Books,20191125,Java
+87,Learn Java GUI Applications - 11th Edition (A JFC Swing Tutorial),9781937161903,Kidware Software & BibleByte Books,20191119,Java
+88,Science and Development of Muscle Hypertrophy (Problems and Solutions for Java Developers),9781492597674,Human Kinetics,20190528,Java
+89,Modern JavaScript Web Development Cookbook,9781788992749,Packt Publishing,20181222,Java
+90,Programming and Problem Solving Using Java,9780763734022,Jones & Bartlett,20070401,Java
+91,Javascript: The Good Parts: The Good Parts (The Good Parts),9780596517748,O&#39;Reilly Media,20080501,Java
+92,Reactive Programming with Rxjs 5: Untangle Your Asynchronous JavaScript Code (Untangle Your Asynchronous Javascript Code),9781680502473,Pragmatic Bookshelf,20171125,Java
+93,Mastering Java EE Development with WildFly,9781787287174,Packt Publishing,20170623,Java
+94,"Beginning iPhone and iPad Web Apps: Scripting with Html5, Css3, and JavaScript (Scripting with HTML5, CSS3, and JavaScript)",9781430230458,Apress,20101230,Java
+95,JavaScript Programming: Pushing the Limits (Pushing the Limits),9781118524565,John Wiley & Sons,20130819,Java
+96,Data Structures and Algorithms in Java 반양장,9780471469834,Wiley,20031210,Java
+97,Learning Android (Develop Mobile Apps Using Java and Eclipse),9781449319236,O&#39;Reilly Media,20140127,Java
+98,Foundation Html5 Animation with JavaScript,9781430236658,Friends of ED,20111130,Java
+99,Data Structures And Algorithms In Java 반양장,9780534492526,Brooks/Cole,20040924,Java
+0,Professional JavaScript for Web Developers,9781118026694,WROX Press,20130118,Java
+1,Introduction to Programming Using Java 반양장 (An Object Oriented Approach),9780321200068,Addison-Wesley,20030830,Java
+2,읽기 좋은 자바스크립트 코딩 기법 Maintainable JavaScript (유지보수가 쉬운 코드로 팀의 생산성을 높이자),9788979149883,한빛미디어,20130107,Java
+3,Java Programming for the Absolute Beginner,9780761535225,Premier Press,20010801,Java
+4,"Nini Towok’s Spinning Wheel (Cloth and the Cycle of Life in Kerek, Java)",9780977834426,Univ of Washington Pr,20100801,Java
+5,Data Structures and Abstractions with Java,9780133744057,Prentice Hall,20140831,Java
+6,Service-Oriented Java Business Integration,9781847194404,Packt Publishing,20080209,Java
+7,"Java with Object-Oriented Programming, 2/E",9780534392765,Cengage Learning,20020801,Java
+8,Java All-in-One Desk Reference for Dummies,9780470371725,For Dummies,20110812,Java
+9,Sencha Touch 2 Mobile JavaScript Framework,9781782160748,Packt Publishing,20130816,Java
+10,JDBC: Practical Guide for Java Programmers,9781558607361,Morgan Kaufmann,20010801,Java
+11,Erotic Triangles: Sundanese Dance and Masculinity in West Java (Sundanese Dance and Masculinity in West Java),9780226769592,University of Chicago Press,20210101,Java
+12,Java Design:Building Better Apps and Applets,9780132711494,Prentice Hall,20210101,Java
+13,"자바스크립트 + jQuery 마스터 (with Javascript, jQuery, Templates, Plugins)",9788996852186,아이콕스(iCox),20150815,Java
+14,"JavaScript in 24 Hours, Sams Teach Yourself",9780672338090,Sams,20181011,Java
+15,"Data Structures and Algorithms in Java, 6/E (International Student Version)",9781118808573,Wiley,20150310,Java
+16,Learning React Native: Building Native Mobile Apps with JavaScript (Building Native Mobile Apps With Javascript),9781491989142,O&#39;Reilly Media,20171125,Java
+17,Beginning Programming with Java for Dummies,9781119235538,For Dummies,20170724,Java
+18,Spock: Up and Running: Writing Expressive Tests in Java and Groovy (Writing Expressive Tests in Java and Groovy),9781491923290,O&#39;Reilly Media,20170602,Java
+19,Pragmatic Unit Testing in Java 8 with Junit,9781941222591,Pragmatic Bookshelf,20150319,Java
+20,Essential Java for Scientists and Engineers,9780750659918,Butterworth-Heinemann,20030418,Java
+21,Component Development for the Java Platform,9780201753066,Addison-Wesley,20011201,Java
+22,"Foundation Adobe Edge Animate: For Html5, Css3, and JavaScript Development (For Html5, Css3, and Javascript Development)",9781430243502,Friends of ED,20120725,Java
+23,Introducing Java Ee 7: A Look at What’s New (A Look at What’s New),9781430258483,Apress,20130630,Java
+24,Programming Groovy 2: Dynamic Productivity for the Java Developer (Dynamic Productivity for the Java Developer),9781937785307,Pragmatic Bookshelf,20130722,Java
+25,Professional Node.js (Building Javascript Based Scalable Software),9781118185469,John Wiley & Sons,20121019,Java
+26,Essential Java 3D Fast: Developing 3D Graphics Applications in Java (Developing 3d Graphics Applications in Java),9781852333942,Springer,20010601,Java
+27,Testable JavaScript: Ensuring Reliable Code,9781449323394,O&#39;Reilly Media,20130131,Java
+28,Beginning Programming with Java for Dummies,9780470371749,For Dummies,20120410,Java
+29,"Introduction to Java Programming Brief, 7/E",9780138146269,Prentice-Hall,,Java
+30,The Visual Basic Programmer’s Guide to Java,9781583482179,iUniverse,19990428,Java
+31,"Programming Language With Java Package, 2/E",9780321193711,Prentice-Hall,,Java
+32,"Living in Paradise 양장 (At Home in the Tropics: Bali, Java, Thailand)",9780847865857,Rizzoli,20200303,Java
+33,Mastering JavaScript Functional Programming.,9781839213069,Packt Publishing,20200124,Java
+34,A Practical Solution Three in One C/C++/JAVA,9786202050470,LAP Lambert Academic Publishing,20190225,Java
+35,JavaScript and Jquery for Website Developing,9783659890802,LAP Lambert Academic Publishing,20190211,Java
+36,Learn Blockchain Programming with JavaScript (Build your very own Blockchain and decentralized network with JavaScript and Node.js),9781789618822,Packt,20181201,Java
+37,Practical Internet of Things with JavaScript (Build standalone exciting IoT projects with Raspberry Pi 3 and JavaScript (ES5/ES6)),9781788292948,Packt Publishing,20181001,Java
+38,JavaScript Cloud Native Development Cookbook,9781788470414,Packt Publishing,20180927,Java
+39,Building RESTful Web Services with Java EE 8,9781789532883,Packt Publishing,20180731,Java
+40,"Java How to Program, 11/E GE (Early Objects) (Early Objects)",9781292223858,Pearson,20180328,Java
+41,A Guide to Learn C++ and Java Simultaneously,9786139835546,LAP Lambert Academic Publishing,20180524,Java
+42,"Test-Driven Java Development, Second Edition",9781788836111,Packt Publishing,20180323,Java
+43,Think Data Structures: Algorithms and Information Retrieval in Java (Algorithms and Information Retrieval in Java),9781491972397,Oreilly & Associates Inc,20170725,Java
+44,Murach’s JavaScript and jQuery (3rd Edition),9781943872053,Mike Murach & Associates,20170220,Java
+45,Haskell Im Anschlie?enden Vergleich Mit Java,9783640948987,Grin Verlag,20160915,Java
+46,Java: Today’s Programming Language Volume II,9780997817225,Joslyn A. Smith,20160907,Java
+47,Data Structures and Other Objects Using Java,9780132911504,Pearson Higher Education,20111028,Java
+48,Java Ee 7 Essentials: Enterprise Developer Handbook,9781449370176,O&#39;Reilly Media,20130906,Java
+49,Java and Soap: Building Web Services in Java,9780596001759,O&#39;Reilly & Associates,20020501,Java
+50,"Java for the Web With Servlets, Jsp, and Ejb (A Developer’s Guide to Scalable Solutions)",9780735711952,New Riders Publishing,20020401,Java
+51,"Java for Engineers and Scientists, 2/ed. 반양장",9780130335203,Prentice-Hall,20031001,Java
+52,Data Structures and Other Objects Using Java,9780132576246,Prentice Hall,20111112,Java
+53,14歲からはじめるHTML+CSS+Javascriptインタ-ネットプログラミング敎室,9784899772262,ラトルズ,20081001,Java
+54,Data Structures and Abstractions with Java 반양장,9780132370455,Prentice-Hall,20210101,Java
+55,Professional Eclipse 3 For Java Developers 반양장,9780470020050,Wiley,20210101,Java
+56,Lets 실전 예제로 배우는 자바스크립트+제이쿼리(JavaScript+jQuery) (웹 퍼블리셔를 위한 최고의 기본서),9788965121275,아이비김영,20201110,Java
+57,"THE JAVA LANGUAGE SPECIFICATION THIRD EDITION (한국어판, Third Edition)",9788960770072,에이콘출판,20080102,Java
+58,Android Studio Arctic Fox Essentials - Java Edition (Developing Android Apps Using Android Studio 2020.31 and Java),9781951442354,"Payload Media, Inc.",20210917,Java
+59,Basic Java Programming for Kids and Beginners,9781532078750,iUniverse,20190730,Java
+60,Beginning Java Data Structures and Algorithms,9781789537178,Packt Publishing,20180727,Java
+61,Computer Graphics for Java Programmers 2E 반양장,9780470031605,Wiley,20070406,Java
+62,JavaScript and JSON Essentials Second Edition,9781788624701,Packt Publishing,20180420,Java
+63,"Node.Js 8 the Right Way: Practical, Server-Side JavaScript That Scales (Practical, Server-side Javascript That Scales)",9781680501957,Pragmatic Bookshelf,20171225,Java
+64,"HTML5, JavaScript, and jQuery 24-Hour Trainer",9781119001164,Wrox Press,20150213,Java
+65,Javascript: 20 Lessons to Successful Web Development (20 Lessons to Successful Web Development),9780071841580,McGraw-Hill/Osborne Media,20150127,Java
+66,JavaScript the Complete Reference 3rd Edition,9780071741200,McGraw-Hill/Osborne Media,20110731,Java
+67,Schaum’s Outline of Data Structures with Java,9780071611619,McGraw-Hill,20090526,Java
+68,Java Outside in Paperback [With CDROM and CD],9780521010870,Cambridge University Press,20030601,Java
+69,Internet Multimedia Communications Using SIP (A Modern Approach Including Java (R) Practice),9780123743008,Morgan Kaufmann,20080115,Java
+70,Java in a Nutshell: A Desktop Quick Reference,9781449370824,O&#39;Reilly Media,20141224,Java
+71,"Operating Systems Concepts with Java, 6/e 반양장",9780471489054,Wiley,20031031,Java
+72,Java: Intro. to Problem Solving & Programming,9780136072256,Prentice-Hall,20080507,Java
+73,Training Guide: Programming in HTML5 with JavaScript and CSS (Programming in Html5 with JavaScript and Css3),9780735674387,Microsoft Press,20130430,Java
+74,Java 7 Pocket Guide: Instant Help for Java Programmers,9781449343569,O&#39;Reilly Media,20130822,Java
+75,Beginning Phonegap: Mobile Web Framework for JavaScript and Html5 (Mobile Web Framework for Javascript and Html5),9781430239031,Apress,20120111,Java
+76,"Component- Oriented Development and Assembly 양장 (Paradigm, Principles, and Practice Using Java)",9781466580992,Auerbach Publications,20131228,Java
+77,Inside Servlets Server-Side Programming for the Java Platform 반양장 (Server-Side Programming for the Java Platform),9780201709063,Addison-Wesley,20010501,Java
+78,"Node.Js the Right Way: Practical, Server-Side JavaScript That Scales (Practical, Server-Side Javascript That Scales)",9781937785734,Pragmatic Bookshelf,20131205,Java
+79,Pro Data Visualization Using R and JavaScript,9781430258063,Apress,20130612,Java
+80,Java Web Services for Experienced Programmers,9780130461346,Prentice Hall PTR,20020819,Java
+81,"Oracle Database Programming with Java: Ideas, Designs, and Implementations",9781032302294,Auerbach Publications,20220808,Java
+82,"Java - Simple, Concept Oriented, and Programming",9786203202021,KS OmniScriptum Publishing,20210129,Java
+83,Real-World Software Development: A Project-Driven Guide to Fundamentals in Java (A Project-driven Guide to Fundamentals in Java),9781491967171,Oreilly & Associates Inc,20191104,Java
+84,JavaScript &#1074; &#1087;&#1088;&#1080;&#1084;&#1077;&#1088;&#1072;&#1093;,9785940746683,Book on Demand Ltd.,20190624,Java
+85,Natural Language Processing with Java Cookbook,9781789801156,Packt,20190425,Java
+86,Javascript Basic to Advanced Expert Programming,9788963413181,영민,20200825,Java
+87,Data Structures and Abstractions with Java 반양장,9781292077185,Pearson Education,20160801,Java
+88,Understanding Ecmascript 6: The Definitive Guide for JavaScript Developers (The Definitive Guide for Javascript Developers),9781593277574,No Starch Press,20160930,Java
+89,Java and XML: Solutions to Real-World Problems,9780596101497,O&#39;Reilly Media,20061008,Java
+90,Java Programming: A Comprehensive Introduction (A Comprehensive Introduction),9780078022074,McGraw-Hill Science/Engineering/Math,20120120,Java
+91,"Kinect Open Source Programming Secrets (Hacking the Kinect With OpenNI, NITE, and Java)",9780071783170,McGraw-Hill Professional Publishing,20120418,Java
+92,Developing Java Ee 6 Applications on Jboss As7,9781782161349,Packt Publishing,20130331,Java
+93,Data Structures and Problem Solving Using Java,9780321546227,Pearson Higher Education,20080301,Java
+94,Data Structures and Problem Solving Using Java,9780321541406,Addison Wesley Longman,20091007,Java
+95,Indesign Cs5 Automation Using XML & JavaScript,9781460915387,Createspace,20131223,Java
+96,Programming the BeagleBone Black: Getting Started with JavaScript and BoneScript (Getting Started With JavaScript and BoneScript),9780071832120,McGraw-Hill/Tab Electronics,20140509,Java
+97,Maintainable JavaScript: Writing Readable Code,9781449327682,O&#39;Reilly Media,20120531,Java
+98,Sams Teach Yourself JavaScript in 24 Hours 반양장,9780672328794,Sams,,Java
+99,Xml and Java : Developing Web Applications 반양장,9780201485431,Addison-Wesley,19990501,Java

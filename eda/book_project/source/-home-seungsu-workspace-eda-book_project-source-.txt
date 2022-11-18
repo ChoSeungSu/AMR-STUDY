@@ -1,0 +1,1 @@
+/home/seungsu/workspace/eda/book_project/source/naverbook_api.ipynb
